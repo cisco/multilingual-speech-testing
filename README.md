@@ -1,6 +1,6 @@
 # Multilingual Speech Datasets
 
-This repository is a collection of real-world speech datasets. These datasets are designed for testing purposes, particularly subjective tests performed in internal or crowdsourced studies.
+This repository is a collection of real-world speech recordings. The datasets are designed for speech quality and intellgibility assessment purposes, including subjective tests in laboratory or crowdsourced settings.
 
 ## Speech Intelligibility Assessment
 
