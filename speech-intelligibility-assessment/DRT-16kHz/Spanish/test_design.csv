@@ -2,7 +2,7 @@ filename,target,alternative,speaker_id,gender,age,country,block,feature,state,st
 baje_c7e0483100584d51a499e667d8e70ae8.wav,baje,vague,ES_01,male,20-60,Venezuela,1,voicing,absent,voiceless,a,x,G,intervocalic
 caso_f0469c1b0f0a467c871fc47064463c3d.wav,caso,paso,ES_02,male,20-60,Guatemala,1,compactness,absent,diffuse,a,k,p,initial
 checo_dff4eb29b2d440f59986918cc24d53a7.wav,checo,seco,ES_03,male,20-60,Mexico,1,sustention,absent,interrupted,e,tS,s,intervocalic
-Chema_102805e60d29491ba49afdfb7556053d.wav,chema,yema,ES_04,male,20-60,Poland,1,sibilation,present,strident,e,tS,jj,initial
+Chema_102805e60d29491ba49afdfb7556053d.wav,chema,yema,ES_04,male,20-60,Venezuela,1,sibilation,present,strident,e,tS,jj,initial
 chola_97e0a1d4422e40d2831cfe6d02e98fdd.wav,chola,yola,ES_05,male,20-60,Venezuela,1,sibilation,present,strident,o,tS,jj,initial
 chupi_b819c986dd6f4c7ca601513e53b568b5.wav,chupi,yupi,ES_02,male,20-60,Guatemala,1,sibilation,present,strident,u,tS,jj,initial
 cura_4a2f344232904acf831d0c0105d4ec31.wav,cura,pura,ES_06,male,20-60,Venezuela,1,compactness,absent,diffuse,u,k,p,initial
@@ -10,11 +10,11 @@ cuno_40ba169c01f644e9aed907a827f7e360.wav,cuño,cuyo,ES_05,male,20-60,Venezuela,
 debe_f7c3f34a12a24f479f5ee1fce443eed5.wav,debe,deme,ES_07,male,20-60,Venezuela,1,nasality,absent,oral,e,B,m,initial
 denso_6d730625635e4a50a473b3fb7cb52363.wav,denso,tenso,ES_08,male,20-60,Colombia,1,voicing,present,voiced,e,d,t,initial
 duna_2b431662cfe5471c8d6f362bf8ea86e8.wav,duna,tuna,ES_03,male,20-60,Mexico,1,voicing,present,voiced,u,d,t,initial
-faro_2fa39f37d0814bb79dfa3de097f49a68.wav,faro,paro,ES_04,male,20-60,Poland,1,sustention,present,continuous,a,f,p,initial
+faro_2fa39f37d0814bb79dfa3de097f49a68.wav,faro,paro,ES_04,male,20-60,Venezuela,1,sustention,present,continuous,a,f,p,initial
 fila_96493dc7bcfe4cae85617f7a7e1abc4d.wav,fila,pila,ES_09,male,20-60,Costa Rica,1,sustention,present,continuous,i,f,p,initial
-fuente_bbda9baf4d704c6bbc897873468d946c.wav,fuente,puente,ES_04,male,20-60,Poland,1,sustention,present,continuous,u,f,p,initial
+fuente_bbda9baf4d704c6bbc897873468d946c.wav,fuente,puente,ES_04,male,20-60,Venezuela,1,sustention,present,continuous,u,f,p,initial
 haya_ce5b5cf3dcff407499982115d096b57a.wav,haya,hada,ES_06,male,20-60,Venezuela,1,compactness,present,compact,a,jj,D,intervocalic
-leyes_cce68abe913c46daae10154b0e5d284c.wav,leyes,leñes,ES_04,male,20-60,Poland,1,nasality,absent,oral,e,j,J,intervocalic
+leyes_cce68abe913c46daae10154b0e5d284c.wav,leyes,leñes,ES_04,male,20-60,Venezuela,1,nasality,absent,oral,e,j,J,intervocalic
 ligue_5d23fdebc55947c8acc4473b8cd0d42e.wav,ligue,lije,ES_10,male,20-60,Mexico,1,voicing,present,voiced,i,G,x,intervocalic
 lobo_2270e41e54cf4543aae4a864f14d4ee5.wav,lobo,lomo,ES_11,male,20-60,Spain,1,nasality,absent,oral,o,B,m,initial
 Lugo_fe525bbb31914ae39bacacea52ce327a.wav,lugo,lujo,ES_12,male,20-60,Venezuela,1,voicing,present,voiced,u,G,x,intervocalic
@@ -26,7 +26,7 @@ nino_6f91305a9d19475eb197d887e17824eb.wav,niño,miño,ES_06,male,20-60,Venezuela
 ocho_576d29e809b448858f556fa37c5ec9b1.wav,ocho,oso,ES_02,male,20-60,Guatemala,1,sustention,absent,interrupted,o,tS,s,intervocalic
 paga_66f6afe0babf4f459feca12e1a3bc4ee.wav,paga,paja,ES_03,male,20-60,Mexico,1,voicing,present,voiced,a,G,x,intervocalic
 papa_8be777129e0a45d2a399bbb35d3bb8c0.wav,papa,pata,ES_14,male,20-60,Panama,1,graveness,present,grave,a,p,t,intervocalic
-paso_7ce2714dc951470582c8c5733ed5eeac.wav,paso,caso,ES_04,male,20-60,Poland,1,compactness,present,compact,a,p,k,initial
+paso_7ce2714dc951470582c8c5733ed5eeac.wav,paso,caso,ES_04,male,20-60,Venezuela,1,compactness,present,compact,a,p,k,initial
 pecho_ce7d3c8f1ace4f3baed55b9c2cc47190.wav,pecho,techo,ES_08,male,20-60,Colombia,1,graveness,present,grave,e,p,t,initial
 peto_72ccef8541614aed8d7f3600593ce78b.wav,peto,feto,ES_08,male,20-60,Colombia,1,sustention,absent,interrupted,e,p,f,initial
 pila_09fe8ad4bd1146e383ee339e5cac33c7.wav,pila,fila,ES_03,male,20-60,Mexico,1,sustention,absent,interrupted,i,p,f,initial
@@ -40,12 +40,12 @@ redes_11c2a62ff8614d7d81253cf9cd281065.wav,redes,reyes,ES_02,male,20-60,Guatemal
 seco_54cfe15829784694970dd5c47e140c5b.wav,seco,checo,ES_16,male,20-60,Ecuador,1,sustention,present,continuous,e,s,tS,intervocalic
 subo_016df63c286245de9455888169c1dec1.wav,subo,sumo,ES_08,male,20-60,Colombia,1,nasality,absent,oral,u,B,m,initial
 sumo_deb49470e58b4b019ea55cc2cb527474.wav,sumo,subo,ES_02,male,20-60,Guatemala,1,nasality,present,nasal,u,m,B,initial
-suyo_966bdbb113f24d26ade612c128192783.wav,suyo,sudo,ES_04,male,20-60,Poland,1,compactness,present,compact,u,jj,D,intervocalic
+suyo_966bdbb113f24d26ade612c128192783.wav,suyo,sudo,ES_04,male,20-60,Venezuela,1,compactness,present,compact,u,jj,D,intervocalic
 tardo_07e759901de4475ba3157e7583a1b574.wav,tardo,dardo,ES_02,male,20-60,Guatemala,1,voicing,absent,voiceless,a,t,d,initial
-techo_4262fdf6a85f43b9b25a9482e20c349d.wav,techo,pecho,ES_04,male,20-60,Poland,1,graveness,absent,accute,e,t,p,initial
+techo_4262fdf6a85f43b9b25a9482e20c349d.wav,techo,pecho,ES_04,male,20-60,Venezuela,1,graveness,absent,accute,e,t,p,initial
 tierna_28f29aff355f4d52a2123ec5a9476f94.wav,tierna,pierna,ES_08,male,20-60,Colombia,1,graveness,absent,accute,i,t,p,initial
 tono_adf6076457df4dfcbca2bdfffd902fa2.wav,tono,tomo,ES_14,male,20-60,Panama,1,graveness,absent,accute,o,n,m,intervocalic
-torso_90716d45ec55435aac17b0989c4e0e14.wav,torso,dorso,ES_04,male,20-60,Poland,1,voicing,absent,voiceless,o,t,d,initial
+torso_90716d45ec55435aac17b0989c4e0e14.wav,torso,dorso,ES_04,male,20-60,Venezuela,1,voicing,absent,voiceless,o,t,d,initial
 trama_2946529106cc4798bf5d6a3492963045.wav,trama,traba,ES_14,male,20-60,Panama,1,nasality,present,nasal,a,m,B,initial
 tuna_fcc1ef9525a24edeb203f99fc1092a34.wav,tuna,duna,ES_14,male,20-60,Panama,1,voicing,absent,voiceless,u,t,d,initial
 vague_87cf75ddb4764d4eaa6407e7e9fad888.wav,vague,baje,ES_06,male,20-60,Venezuela,1,voicing,present,voiced,a,G,x,intervocalic
@@ -158,9 +158,9 @@ vague_4f6769ecc6e64a86bb5667bd11626be0.wav,vague,baje,ES_24,female,20-60,Colombi
 yapa_22bb8446a248404fa2c04249eb602aca.wav,yapa,chapa,ES_31,female,20-60,Colombia,2,sibilation,absent,mellow,a,jj,tS,initial
 yodo_c08f92639d0a431ba25e2b4b41429f5c.wav,yodo,yoyo,ES_22,female,20-60,Colombia,2,compactness,absent,diffuse,o,D,jj,intervocalic
 yoyo_fbd2829ba84944c3ae2ca3c2b5b4b4b1.wav,yoyo,yodo,ES_28,female,20-60,Guatemala,2,compactness,present,compact,o,jj,D,intervocalic
-bana_a4670e5d3d7a4e9fa405054a6f450a29.wav,baña,vaya,ES_35,male,20-60,Poland,2,nasality,present,nasal,a,J,j,intervocalic
+bana_a4670e5d3d7a4e9fa405054a6f450a29.wav,baña,vaya,ES_35,male,20-60,Venezuela,2,nasality,present,nasal,a,J,j,intervocalic
 chapa_b403eec146e7496c8c6d05887f596a2d.wav,chapa,yapa,ES_36,male,20-60,Panama,2,sibilation,present,strident,a,tS,jj,initial
-chelo_71f7527a6bf7440eaaf8213b249ea449.wav,chelo,hielo,ES_35,male,20-60,Poland,2,sibilation,present,strident,e,tS,jj,initial
+chelo_71f7527a6bf7440eaaf8213b249ea449.wav,chelo,hielo,ES_35,male,20-60,Venezuela,2,sibilation,present,strident,e,tS,jj,initial
 chino_74007d2155fe4656b2a070ab55864fb8.wav,chino,sino,ES_02,male,20-60,Guatemala,2,sustention,absent,interrupted,i,tS,s,intervocalic
 chupe_b89277c3858b43eab07f0e08e4379cbc.wav,chupe,supe,ES_14,male,20-60,Panama,2,sustention,absent,interrupted,u,tS,s,intervocalic
 cobre_215cb168a7b64b329d4705bc151f4ee6.wav,cobre,pobre,ES_02,male,20-60,Guatemala,2,compactness,absent,diffuse,o,k,p,initial
@@ -169,12 +169,12 @@ dardo_d0e6a29e6e064d269d6601c2574e61da.wav,dardo,tardo,ES_08,male,20-60,Colombia
 deme_6e6cdac29fc247fe9210e0e55d6584db.wav,deme,debe,ES_14,male,20-60,Panama,2,nasality,present,nasal,e,m,B,initial
 dorso_4290c4d37d1647c69b69da9d23a86dea.wav,dorso,torso,ES_07,male,20-60,Venezuela,2,voicing,present,voiced,o,d,t,initial
 dia_3b213edb3c2f46e785726c93afce532e.wav,día,tía,ES_02,male,20-60,Guatemala,2,voicing,present,voiced,i,d,t,initial
-feto_b2378236862549349a1dc293617fbe82.wav,feto,peto,ES_04,male,20-60,Poland,2,sustention,present,continuous,e,f,p,initial
+feto_b2378236862549349a1dc293617fbe82.wav,feto,peto,ES_04,male,20-60,Venezuela,2,sustention,present,continuous,e,f,p,initial
 foco_416e997ec9aa498f96e4706589748fb2.wav,foco,poco,ES_37,male,20-60,Colombia,2,sustention,present,continuous,o,f,p,initial
 hada_03f93e3c99864af1bb6b8f5cf6fb79cb.wav,hada,haya,ES_08,male,20-60,Colombia,2,compactness,absent,diffuse,a,D,jj,intervocalic
 hielo_6fd43a17e7ca452aadf4925029f95871.wav,hielo,chelo,ES_07,male,20-60,Venezuela,2,sibilation,absent,mellow,e,jj,tS,initial
-lenes_6f3a5a03ae844c2c8942e4417ee7c25b.wav,leñes,leyes,ES_04,male,20-60,Poland,2,nasality,present,nasal,e,J,j,intervocalic
-lije_8660ea2600f04445be91d795227717ae.wav,lije,ligue,ES_04,male,20-60,Poland,2,voicing,absent,voiceless,i,x,G,intervocalic
+lenes_6f3a5a03ae844c2c8942e4417ee7c25b.wav,leñes,leyes,ES_04,male,20-60,Venezuela,2,nasality,present,nasal,e,J,j,intervocalic
+lije_8660ea2600f04445be91d795227717ae.wav,lije,ligue,ES_04,male,20-60,Venezuela,2,voicing,absent,voiceless,i,x,G,intervocalic
 lomo_5a7c7da7e19442e580669e81ef546dfa.wav,lomo,lobo,ES_11,male,20-60,Spain,2,nasality,present,nasal,o,m,B,initial
 lujo_e4608140bdd74afd88543e6ca27c74f2.wav,lujo,lugo,ES_06,male,20-60,Venezuela,2,voicing,absent,voiceless,u,x,G,intervocalic
 majo_644c0d1f35d146cba35ebc5dc1d83237.wav,majo,mago,ES_03,male,20-60,Mexico,2,voicing,absent,voiceless,a,x,G,intervocalic
@@ -187,7 +187,7 @@ paja_2546c00895514fba96353db874167da7.wav,paja,paga,ES_03,male,20-60,Mexico,2,vo
 paro_9a7ef7df5eab48c394d6691b2eafff4a.wav,paro,faro,ES_15,male,20-60,Costa Rica,2,sustention,absent,interrupted,a,p,f,initial
 pata_82682e95f4c947aeb4ca9756e16bce58.wav,pata,papa,ES_03,male,20-60,Mexico,2,graveness,absent,accute,a,t,p,intervocalic
 peso_79f089ed78b7421184e456b7af48aa39.wav,peso,queso,ES_07,male,20-60,Venezuela,2,compactness,present,compact,e,p,k,initial
-pierna_f864a6145ecb4c93a74bcbcc880b399b.wav,pierna,tierna,ES_04,male,20-60,Poland,2,graveness,present,grave,i,p,t,initial
+pierna_f864a6145ecb4c93a74bcbcc880b399b.wav,pierna,tierna,ES_04,male,20-60,Venezuela,2,graveness,present,grave,i,p,t,initial
 pitar_c38ad3a9cf8445e7a7407d67325d2b2c.wav,pitar,quitar,ES_15,male,20-60,Costa Rica,2,compactness,present,compact,i,p,k,initial
 poco_d3d0444c80074fb48b9cebb18290e8b0.wav,poco,foco,ES_05,male,20-60,Venezuela,2,sustention,absent,interrupted,o,p,f,initial
 prima_1c5ae5d8a2104f0ca19b2626ea2b99b7.wav,prima,priva,ES_06,male,20-60,Venezuela,2,nasality,present,nasal,i,m,B,initial
@@ -195,9 +195,9 @@ puente_d49a7eeda3304c1bade454a545ea3e89.wav,puente,fuente,ES_14,male,20-60,Panam
 pura_3087489bffd64ca38cbad5d1ae71ab46.wav,pura,cura,ES_02,male,20-60,Guatemala,2,compactness,present,compact,u,p,k,initial
 quitar_74d04c511dca43a1b4dac816d7fa1d7d.wav,quitar,pitar,ES_02,male,20-60,Guatemala,2,compactness,absent,diffuse,i,k,p,initial
 rana_25811a39515f496ea2e8c8a31ac5c79c.wav,rana,rama,ES_02,male,20-60,Guatemala,2,graveness,absent,accute,a,n,m,intervocalic
-reyes_3f4e569cb33249b9b7c9efd2ff1bf649.wav,reyes,redes,ES_04,male,20-60,Poland,2,compactness,present,compact,e,jj,D,intervocalic
+reyes_3f4e569cb33249b9b7c9efd2ff1bf649.wav,reyes,redes,ES_04,male,20-60,Venezuela,2,compactness,present,compact,e,jj,D,intervocalic
 sino_302c11fd5dd84d1e973c8411a4118a2f.wav,sino,chino,ES_07,male,20-60,Venezuela,2,sustention,present,continuous,i,s,tS,intervocalic
-sudo_cbcaf7b67b914b6c9f280b0bca7d3dd1.wav,sudo,suyo,ES_04,male,20-60,Poland,2,compactness,absent,diffuse,u,D,jj,intervocalic
+sudo_cbcaf7b67b914b6c9f280b0bca7d3dd1.wav,sudo,suyo,ES_04,male,20-60,Venezuela,2,compactness,absent,diffuse,u,D,jj,intervocalic
 supe_df661c6abefa40779ff9b0c00efb6c9f.wav,supe,chupe,ES_07,male,20-60,Venezuela,2,sustention,present,continuous,u,s,tS,intervocalic
 tacha_a2630a940aa543018b391e420dc7d792.wav,tacha,tasa,ES_02,male,20-60,Guatemala,2,sustention,absent,interrupted,a,tS,s,intervocalic
 tasa_3138eab8c2de4655b861b32708d05abc.wav,tasa,tacha,ES_07,male,20-60,Venezuela,2,sustention,present,continuous,a,s,tS,intervocalic
@@ -213,24 +213,24 @@ yola_ec0a6040aad04b1bac5324506570d8ab.wav,yola,chola,ES_05,male,20-60,Venezuela,
 yupi_5cd8f29461f34eefa014e5dbd42d7200.wav,yupi,chupi,ES_06,male,20-60,Venezuela,2,sibilation,absent,mellow,u,jj,tS,initial
 baje_d75261fc44a8446b99e668f07dd7603e.wav,baje,vague,ES_39,male,20-60,Costa Rica,3,voicing,absent,voiceless,a,x,G,intervocalic
 caso_9aee5b7495e3498583e801988221e67f.wav,caso,paso,ES_40,male,20-60,Venezuela,3,compactness,absent,diffuse,a,k,p,initial
-checo_8d5bffa2329d4a66bd7c79e04a12a1dc.wav,checo,seco,ES_35,male,20-60,Poland,3,sustention,absent,interrupted,e,tS,s,intervocalic
+checo_8d5bffa2329d4a66bd7c79e04a12a1dc.wav,checo,seco,ES_35,male,20-60,Venezuela,3,sustention,absent,interrupted,e,tS,s,intervocalic
 Chema_b24f1a2c8ecb41ec828aa6765ced5fc2.wav,chema,yema,ES_39,male,20-60,Costa Rica,3,sibilation,present,strident,e,tS,jj,initial
 chola_31a7534120de448c8ab3d48f3e43a6b9.wav,chola,yola,ES_02,male,20-60,Guatemala,3,sibilation,present,strident,o,tS,jj,initial
-chupi_cdc25d24706247489c72c44d468c27b2.wav,chupi,yupi,ES_04,male,20-60,Poland,3,sibilation,present,strident,u,tS,jj,initial
+chupi_cdc25d24706247489c72c44d468c27b2.wav,chupi,yupi,ES_04,male,20-60,Venezuela,3,sibilation,present,strident,u,tS,jj,initial
 cura_b2a1011af7834e52beba0049504756ba.wav,cura,pura,ES_14,male,20-60,Panama,3,compactness,absent,diffuse,u,k,p,initial
 cuno_d3d49cd0b63a4bbbaa633f63aa533bb7.wav,cuño,cuyo,ES_41,male,20-60,Guatemala,3,nasality,present,nasal,u,J,j,intervocalic
 debe_7b5be605fceb41fdb6f64079cd0ef079.wav,debe,deme,ES_02,male,20-60,Guatemala,3,nasality,absent,oral,e,B,m,initial
-denso_1ff7dddeab684ae9aeccca70a7a425a7.wav,denso,tenso,ES_04,male,20-60,Poland,3,voicing,present,voiced,e,d,t,initial
+denso_1ff7dddeab684ae9aeccca70a7a425a7.wav,denso,tenso,ES_04,male,20-60,Venezuela,3,voicing,present,voiced,e,d,t,initial
 duna_903b4b6f133040bfb59375f45abffe01.wav,duna,tuna,ES_06,male,20-60,Venezuela,3,voicing,present,voiced,u,d,t,initial
 faro_87b7ce9368904c6ea148b633ffe520a7.wav,faro,paro,ES_09,male,20-60,Costa Rica,3,sustention,present,continuous,a,f,p,initial
-fila_33450083345f4368abb30370c4da218d.wav,fila,pila,ES_04,male,20-60,Poland,3,sustention,present,continuous,i,f,p,initial
+fila_33450083345f4368abb30370c4da218d.wav,fila,pila,ES_04,male,20-60,Venezuela,3,sustention,present,continuous,i,f,p,initial
 fuente_bfcf1f54d7d64a6285de01b5868ffaea.wav,fuente,puente,ES_02,male,20-60,Guatemala,3,sustention,present,continuous,u,f,p,initial
 haya_246598e63ab64cc7919b503c020d2fa1.wav,haya,hada,ES_09,male,20-60,Costa Rica,3,compactness,present,compact,a,jj,D,intervocalic
 leyes_97707f6b54d74e4c8d6f63f0227406d9.wav,leyes,leñes,ES_06,male,20-60,Venezuela,3,nasality,absent,oral,e,j,J,intervocalic
 ligue_57f249bd0362448ba16174e3903bd123.wav,ligue,lije,ES_08,male,20-60,Colombia,3,voicing,present,voiced,i,G,x,intervocalic
 lobo_43290f369c55487f9ce701a0f1b90189.wav,lobo,lomo,ES_06,male,20-60,Venezuela,3,nasality,absent,oral,o,B,m,initial
 Lugo_2d89ae428bb24167b7550d189a8db4fb.wav,lugo,lujo,ES_42,male,20-60,Venezuela,3,voicing,present,voiced,u,G,x,intervocalic
-mago_4eaa72a10c5447fbb5d7f2e9d07991fd.wav,mago,majo,ES_04,male,20-60,Poland,3,voicing,present,voiced,a,G,x,intervocalic
+mago_4eaa72a10c5447fbb5d7f2e9d07991fd.wav,mago,majo,ES_04,male,20-60,Venezuela,3,voicing,present,voiced,a,G,x,intervocalic
 mayo_80a2b38bea90428f915e5705d7ea3789.wav,mayo,maño,ES_06,male,20-60,Venezuela,3,nasality,absent,oral,a,j,J,intervocalic
 meta_a5436e1e6b5f4359ac5405c8fa780a56.wav,meta,neta,ES_05,male,20-60,Venezuela,3,graveness,present,grave,e,m,n,initial
 mudo_2c751a84ac2344b9adef6f4ff4c6c2bd.wav,mudo,nudo,ES_03,male,20-60,Mexico,3,graveness,present,grave,u,m,n,initial
@@ -246,7 +246,7 @@ pobre_8dd80950a1ef4ee5a5523ccf46db9b46.wav,pobre,cobre,ES_12,male,20-60,Venezuel
 poro_1fc3e918d60340c9b93680baa32c715f.wav,poro,toro,ES_03,male,20-60,Mexico,3,graveness,present,grave,o,p,t,initial
 priva_b62d8dd7e9194f17aeb626a216e7bdd8.wav,priva,prima,ES_02,male,20-60,Guatemala,3,nasality,absent,oral,i,B,m,initial
 puerca_0fb747a31351405d9f96cda2ccd0b4f7.wav,puerca,tuerca,ES_15,male,20-60,Costa Rica,3,graveness,present,grave,u,p,t,initial
-queso_80bb3236305147b28d894277ad9646cd.wav,queso,peso,ES_04,male,20-60,Poland,3,compactness,absent,diffuse,e,k,p,initial
+queso_80bb3236305147b28d894277ad9646cd.wav,queso,peso,ES_04,male,20-60,Venezuela,3,compactness,absent,diffuse,e,k,p,initial
 rama_1fe6d1ac68984bd8b04e31e3439898ed.wav,rama,rana,ES_03,male,20-60,Mexico,3,graveness,present,grave,a,m,n,intervocalic
 redes_a9c1dbb4845e416fb345f57d8604b3f7.wav,redes,reyes,ES_08,male,20-60,Colombia,3,compactness,absent,diffuse,e,D,jj,intervocalic
 seco_c305fe6a9686454e841305f7f11fbce0.wav,seco,checo,ES_07,male,20-60,Venezuela,3,sustention,present,continuous,e,s,tS,intervocalic
@@ -255,7 +255,7 @@ sumo_66a49c8417bd4649bbd8ded451edc70d.wav,sumo,subo,ES_09,male,20-60,Costa Rica,
 suyo_b3475caa81b845e7b3b491186f37a529.wav,suyo,sudo,ES_07,male,20-60,Venezuela,3,compactness,present,compact,u,jj,D,intervocalic
 tardo_6d3c0db4ec3840f298fee69aa31eb21a.wav,tardo,dardo,ES_09,male,20-60,Costa Rica,3,voicing,absent,voiceless,a,t,d,initial
 techo_1cc3e53f71e843eb86bdf6179f412985.wav,techo,pecho,ES_08,male,20-60,Colombia,3,graveness,absent,accute,e,t,p,initial
-tierna_e19315a5cbc04b1d983aa55e3f3e5383.wav,tierna,pierna,ES_04,male,20-60,Poland,3,graveness,absent,accute,i,t,p,initial
+tierna_e19315a5cbc04b1d983aa55e3f3e5383.wav,tierna,pierna,ES_04,male,20-60,Venezuela,3,graveness,absent,accute,i,t,p,initial
 tono_c3355c844c1a4713a207182680a8def6.wav,tono,tomo,ES_05,male,20-60,Venezuela,3,graveness,absent,accute,o,n,m,intervocalic
 torso_205b370d287b4243a2bb7ad26101d0c5.wav,torso,dorso,ES_08,male,20-60,Colombia,3,voicing,absent,voiceless,o,t,d,initial
 trama_6d14908e747f447084a7ea985d320ea2.wav,trama,traba,ES_06,male,20-60,Venezuela,3,nasality,present,nasal,a,m,B,initial
@@ -374,22 +374,22 @@ bana_157e27735e214acaaf363cb094ac7126.wav,baña,vaya,ES_02,male,20-60,Guatemala,
 chapa_48213b860add48c9951734b7c0b7f50d.wav,chapa,yapa,ES_09,male,20-60,Costa Rica,4,sibilation,present,strident,a,tS,jj,initial
 chelo_e55c02f6388845ea8c9f9853ee101b16.wav,chelo,hielo,ES_14,male,20-60,Panama,4,sibilation,present,strident,e,tS,jj,initial
 chino_69a74854020c41c9a5d6593dbb56c5d3.wav,chino,sino,ES_08,male,20-60,Colombia,4,sustention,absent,interrupted,i,tS,s,intervocalic
-chupe_cd0714a9f321426fabf221fdd17bf0af.wav,chupe,supe,ES_04,male,20-60,Poland,4,sustention,absent,interrupted,u,tS,s,intervocalic
+chupe_cd0714a9f321426fabf221fdd17bf0af.wav,chupe,supe,ES_04,male,20-60,Venezuela,4,sustention,absent,interrupted,u,tS,s,intervocalic
 cobre_2fdd3ee62fd741418ae6b0475ed35554.wav,cobre,pobre,ES_05,male,20-60,Venezuela,4,compactness,absent,diffuse,o,k,p,initial
 cuyo_77c9090006da49bd99b06768671a67c4.wav,cuyo,cuño,ES_06,male,20-60,Venezuela,4,nasality,absent,oral,u,j,J,intervocalic
 dardo_7ddcfd12ebda41ed8a61e69e1743bcd3.wav,dardo,tardo,ES_02,male,20-60,Guatemala,4,voicing,present,voiced,a,d,t,initial
 deme_84ad3af3ad9c4f8e8fd54af1bd9cead0.wav,deme,debe,ES_08,male,20-60,Colombia,4,nasality,present,nasal,e,m,B,initial
-dorso_30e29d9dfeca47319a336de4882c842f.wav,dorso,torso,ES_04,male,20-60,Poland,4,voicing,present,voiced,o,d,t,initial
+dorso_30e29d9dfeca47319a336de4882c842f.wav,dorso,torso,ES_04,male,20-60,Venezuela,4,voicing,present,voiced,o,d,t,initial
 dia_0a8578a59d8c407690ca748504f5e86f.wav,día,tía,ES_14,male,20-60,Panama,4,voicing,present,voiced,i,d,t,initial
 feto_4f2bbcbfa90448bc80d06905640ff93b.wav,feto,peto,ES_08,male,20-60,Colombia,4,sustention,present,continuous,e,f,p,initial
 foco_09e3a1b56468407082fae11d80a57d1a.wav,foco,poco,ES_07,male,20-60,Venezuela,4,sustention,present,continuous,o,f,p,initial
-hada_c91fd40c588a4a61947055acf718bb5b.wav,hada,haya,ES_04,male,20-60,Poland,4,compactness,absent,diffuse,a,D,jj,intervocalic
+hada_c91fd40c588a4a61947055acf718bb5b.wav,hada,haya,ES_04,male,20-60,Venezuela,4,compactness,absent,diffuse,a,D,jj,intervocalic
 hielo_b332569d7c4a4afabd203b1d2ed0c46a.wav,hielo,chelo,ES_14,male,20-60,Panama,4,sibilation,absent,mellow,e,jj,tS,initial
 lenes_d0f1018b004d4d87af9c53571db37b33.wav,leñes,leyes,ES_16,male,20-60,Ecuador,4,nasality,present,nasal,e,J,j,intervocalic
 lije_9b8ae92d24b140de84e33ae5a29a3b09.wav,lije,ligue,ES_06,male,20-60,Venezuela,4,voicing,absent,voiceless,i,x,G,intervocalic
 lomo_f2ad2b0715f4482b85ec8aa899d41e91.wav,lomo,lobo,ES_05,male,20-60,Venezuela,4,nasality,present,nasal,o,m,B,initial
 lujo_3b972b5700a443279210cdc319f0cb66.wav,lujo,lugo,ES_41,male,20-60,Guatemala,4,voicing,absent,voiceless,u,x,G,intervocalic
-majo_285fa0c692d741969973e979cba2b12e.wav,majo,mago,ES_04,male,20-60,Poland,4,voicing,absent,voiceless,a,x,G,intervocalic
+majo_285fa0c692d741969973e979cba2b12e.wav,majo,mago,ES_04,male,20-60,Venezuela,4,voicing,absent,voiceless,a,x,G,intervocalic
 mano_b77af502036044a0980cadf36675e12c.wav,maño,mayo,ES_09,male,20-60,Costa Rica,4,nasality,present,nasal,a,J,j,intervocalic
 Mino_624f40af53f94bf2bb97589b4b7121af.wav,miño,niño,ES_05,male,20-60,Venezuela,4,graveness,present,grave,i,m,n,initial
 neta_0e8fd4ec824347039bbd53fd19421792.wav,neta,meta,ES_14,male,20-60,Panama,4,graveness,absent,accute,e,n,m,initial
@@ -405,7 +405,7 @@ poco_dc5961cfc15e40ac823c345de2dc4909.wav,poco,foco,ES_15,male,20-60,Costa Rica,
 prima_2edb55df3c7647d1a345b28d9b263185.wav,prima,priva,ES_05,male,20-60,Venezuela,4,nasality,present,nasal,i,m,B,initial
 puente_caf27cf7fd554a1fbb1615ca8785c60f.wav,puente,fuente,ES_05,male,20-60,Venezuela,4,sustention,absent,interrupted,u,p,f,initial
 pura_03295d45cf1744a0bfaff81c8cec4504.wav,pura,cura,ES_06,male,20-60,Venezuela,4,compactness,present,compact,u,p,k,initial
-quitar_ef892756e17b4c9a8250079e1d9ff367.wav,quitar,pitar,ES_04,male,20-60,Poland,4,compactness,absent,diffuse,i,k,p,initial
+quitar_ef892756e17b4c9a8250079e1d9ff367.wav,quitar,pitar,ES_04,male,20-60,Venezuela,4,compactness,absent,diffuse,i,k,p,initial
 rana_ec3ad4aeb2864ee69cb518bd285729f0.wav,rana,rama,ES_08,male,20-60,Colombia,4,graveness,absent,accute,a,n,m,intervocalic
 reyes_79f1c19a2b614fad8fe9bbc30c2cb4c4.wav,reyes,redes,ES_15,male,20-60,Costa Rica,4,compactness,present,compact,e,jj,D,intervocalic
 sino_d93887a968ee4e7d85f6c4debfe023f9.wav,sino,chino,ES_09,male,20-60,Costa Rica,4,sustention,present,continuous,i,s,tS,intervocalic
@@ -417,7 +417,7 @@ tenso_008da2db4f0c4aef93c14d0ce542ba23.wav,tenso,denso,ES_07,male,20-60,Venezuel
 tomo_6d200bf6aa48439f90ffdbb347d5a397.wav,tomo,tono,ES_05,male,20-60,Venezuela,4,graveness,present,grave,o,m,n,intervocalic
 toro_f4e4d3bafe354d82af9c57f75bbb1e5d.wav,toro,poro,ES_03,male,20-60,Mexico,4,graveness,absent,accute,o,t,p,initial
 traba_97dea6262d164b0cb61dfcecb51f0713.wav,traba,trama,ES_14,male,20-60,Panama,4,nasality,absent,oral,a,B,m,initial
-tuerca_6e0e857b66a54766860ca005c171bebc.wav,tuerca,puerca,ES_04,male,20-60,Poland,4,graveness,absent,accute,u,t,p,initial
+tuerca_6e0e857b66a54766860ca005c171bebc.wav,tuerca,puerca,ES_04,male,20-60,Venezuela,4,graveness,absent,accute,u,t,p,initial
 tia_72652bdd6f454c138cb777bc54d42abd.wav,tía,día,ES_08,male,20-60,Colombia,4,voicing,absent,voiceless,i,t,d,initial
 vaya_0e6c119e6a9e4db89e81ca9a162b9bbc.wav,vaya,baña,ES_02,male,20-60,Guatemala,4,nasality,absent,oral,a,j,J,intervocalic
 yema_43b5011792ad4475bfe6cd7af14137fc.wav,yema,chema,ES_08,male,20-60,Colombia,4,sibilation,absent,mellow,e,jj,tS,initial
@@ -448,10 +448,10 @@ meta_64300e2c4e8e4334a83eb68416efba17.wav,meta,neta,ES_02,male,20-60,Guatemala,5
 mudo_4fcd46f76877410da44c37cee44d3371.wav,mudo,nudo,ES_06,male,20-60,Venezuela,5,graveness,present,grave,u,m,n,initial
 nino_6772edd87c1d4d9f8e8886229e37a6bf.wav,niño,miño,ES_15,male,20-60,Costa Rica,5,graveness,absent,accute,i,n,m,initial
 ocho_cdfdd132d5624f0caa06155ed8a216f7.wav,ocho,oso,ES_15,male,20-60,Costa Rica,5,sustention,absent,interrupted,o,tS,s,intervocalic
-paga_29f98c99f8cb43d0ab3c790c6cb85612.wav,paga,paja,ES_04,male,20-60,Poland,5,voicing,present,voiced,a,G,x,intervocalic
+paga_29f98c99f8cb43d0ab3c790c6cb85612.wav,paga,paja,ES_04,male,20-60,Venezuela,5,voicing,present,voiced,a,G,x,intervocalic
 papa_a74ae5327bfa4e0e9ef3c4a08053ed40.wav,papa,pata,ES_03,male,20-60,Mexico,5,graveness,present,grave,a,p,t,intervocalic
 paso_411a72cf88e147d6948f9fef86698a57.wav,paso,caso,ES_07,male,20-60,Venezuela,5,compactness,present,compact,a,p,k,initial
-pecho_fb27450fd21e48019181e3f04b23c032.wav,pecho,techo,ES_04,male,20-60,Poland,5,graveness,present,grave,e,p,t,initial
+pecho_fb27450fd21e48019181e3f04b23c032.wav,pecho,techo,ES_04,male,20-60,Venezuela,5,graveness,present,grave,e,p,t,initial
 peto_b119490baef4442c8f812f7916a3ae6b.wav,peto,feto,ES_02,male,20-60,Guatemala,5,sustention,absent,interrupted,e,p,f,initial
 pila_0dfad5c2b20b4930a1e606df6a9f8d78.wav,pila,fila,ES_14,male,20-60,Panama,5,sustention,absent,interrupted,i,p,f,initial
 pobre_e67c22afdbfd45f3a58b95a2beb74ee5.wav,pobre,cobre,ES_05,male,20-60,Venezuela,5,compactness,present,compact,o,p,k,initial
@@ -461,7 +461,7 @@ puerca_1917b581a3244bc287b103729205bad8.wav,puerca,tuerca,ES_16,male,20-60,Ecuad
 queso_425d116afa1e427ab52915e609a42353.wav,queso,peso,ES_02,male,20-60,Guatemala,5,compactness,absent,diffuse,e,k,p,initial
 rama_11f4d017fb6643a186a976586fe83fb9.wav,rama,rana,ES_02,male,20-60,Guatemala,5,graveness,present,grave,a,m,n,intervocalic
 redes_9f8c4129bbae4007a09d404bf91451b7.wav,redes,reyes,ES_03,male,20-60,Mexico,5,compactness,absent,diffuse,e,D,jj,intervocalic
-seco_79f89b9a06e64b1cb368d07fdb27701b.wav,seco,checo,ES_04,male,20-60,Poland,5,sustention,present,continuous,e,s,tS,intervocalic
+seco_79f89b9a06e64b1cb368d07fdb27701b.wav,seco,checo,ES_04,male,20-60,Venezuela,5,sustention,present,continuous,e,s,tS,intervocalic
 subo_2bb91da7b932490183084062077c3a74.wav,subo,sumo,ES_02,male,20-60,Guatemala,5,nasality,absent,oral,u,B,m,initial
 sumo_8ea41a99725a4e2394479f42e374d6a3.wav,sumo,subo,ES_07,male,20-60,Venezuela,5,nasality,present,nasal,u,m,B,initial
 suyo_6c6a1efa7dde4da28efb8a89e5cafac8.wav,suyo,sudo,ES_08,male,20-60,Colombia,5,compactness,present,compact,u,jj,D,intervocalic
@@ -590,7 +590,7 @@ chupe_0dc5bc1f508341dcb0d53b4976ed478b.wav,chupe,supe,ES_50,male,20-60,Colombia,
 cobre_c5a5070b359143318c70a3d75c129ff8.wav,cobre,pobre,ES_36,male,20-60,Panama,6,compactness,absent,diffuse,o,k,p,initial
 cuyo_b9b18e69657f4568a7ad587125487abb.wav,cuyo,cuño,ES_13,male,20-60,Venezuela,6,nasality,absent,oral,u,j,J,intervocalic
 dardo_d4c8a50d3f3346f4982e5ee0b72b8261.wav,dardo,tardo,ES_06,male,20-60,Venezuela,6,voicing,present,voiced,a,d,t,initial
-deme_6087770af8764167bb9e5836a57f40f2.wav,deme,debe,ES_04,male,20-60,Poland,6,nasality,present,nasal,e,m,B,initial
+deme_6087770af8764167bb9e5836a57f40f2.wav,deme,debe,ES_04,male,20-60,Venezuela,6,nasality,present,nasal,e,m,B,initial
 dorso_071b37033b8249118ec5225b6fd6c814.wav,dorso,torso,ES_08,male,20-60,Colombia,6,voicing,present,voiced,o,d,t,initial
 dia_899b0413cde24dc3b2bd4f542ca0320a.wav,día,tía,ES_06,male,20-60,Venezuela,6,voicing,present,voiced,i,d,t,initial
 feto_9c27e455a39d413eb6ddaee8efffa24c.wav,feto,peto,ES_07,male,20-60,Venezuela,6,sustention,present,continuous,e,f,p,initial
@@ -600,13 +600,13 @@ hielo_7ef4aa20c5c641aebf3046513bfb6b93.wav,hielo,chelo,ES_08,male,20-60,Colombia
 lenes_372d85d703944ad6a98dce1b10c1ba91.wav,leñes,leyes,ES_08,male,20-60,Colombia,6,nasality,present,nasal,e,J,j,intervocalic
 lije_5bc4ad9ac397458bbc241d61d150e061.wav,lije,ligue,ES_03,male,20-60,Mexico,6,voicing,absent,voiceless,i,x,G,intervocalic
 lomo_b4aad3d5c67b4a50818427ad2f313ab5.wav,lomo,lobo,ES_15,male,20-60,Costa Rica,6,nasality,present,nasal,o,m,B,initial
-lujo_c99818118e6448a8a474561fe85bd1c2.wav,lujo,lugo,ES_04,male,20-60,Poland,6,voicing,absent,voiceless,u,x,G,intervocalic
+lujo_c99818118e6448a8a474561fe85bd1c2.wav,lujo,lugo,ES_04,male,20-60,Venezuela,6,voicing,absent,voiceless,u,x,G,intervocalic
 majo_53f09b087be24e6da984e378cbf217dd.wav,majo,mago,ES_14,male,20-60,Panama,6,voicing,absent,voiceless,a,x,G,intervocalic
 mano_e46403186e1c48fb8ab64cf924eb17e7.wav,maño,mayo,ES_15,male,20-60,Costa Rica,6,nasality,present,nasal,a,J,j,intervocalic
 Mino_20085a9de5ae45d8a34347dd106aa937.wav,miño,niño,ES_15,male,20-60,Costa Rica,6,graveness,present,grave,i,m,n,initial
-neta_0081d846d6014f2c9ae95d3bd26d6433.wav,neta,meta,ES_04,male,20-60,Poland,6,graveness,absent,accute,e,n,m,initial
+neta_0081d846d6014f2c9ae95d3bd26d6433.wav,neta,meta,ES_04,male,20-60,Venezuela,6,graveness,absent,accute,e,n,m,initial
 nudo_1b8b943b629341a5827dccf12861c7f7.wav,nudo,mudo,ES_03,male,20-60,Mexico,6,graveness,absent,accute,u,n,m,initial
-oso_b9f278029b6e48b6a25ad2f7a49a6f04.wav,oso,ocho,ES_04,male,20-60,Poland,6,sustention,present,continuous,o,s,tS,intervocalic
+oso_b9f278029b6e48b6a25ad2f7a49a6f04.wav,oso,ocho,ES_04,male,20-60,Venezuela,6,sustention,present,continuous,o,s,tS,intervocalic
 paja_a243ea38dd3d43629afc3a23391bdb6f.wav,paja,paga,ES_09,male,20-60,Costa Rica,6,voicing,absent,voiceless,a,x,G,intervocalic
 paro_31afcb2e84e74bc48c07e4e6c716f19f.wav,paro,faro,ES_08,male,20-60,Colombia,6,sustention,absent,interrupted,a,p,f,initial
 pata_1e8198c2711a471aa9cdc5d6ab4cef9d.wav,pata,papa,ES_08,male,20-60,Colombia,6,graveness,absent,accute,a,t,p,intervocalic
@@ -618,19 +618,19 @@ prima_0d9e36bcf00543b18eb7ed8ef21ab826.wav,prima,priva,ES_15,male,20-60,Costa Ri
 puente_7a1cf05ecbe84eafabeed33a810e6590.wav,puente,fuente,ES_03,male,20-60,Mexico,6,sustention,absent,interrupted,u,p,f,initial
 pura_4794013bf3774b68af8b3c95f55f7c92.wav,pura,cura,ES_03,male,20-60,Mexico,6,compactness,present,compact,u,p,k,initial
 quitar_b1444d7760fb4363979b257245a0da45.wav,quitar,pitar,ES_08,male,20-60,Colombia,6,compactness,absent,diffuse,i,k,p,initial
-rana_9d6abcc5577c4a1a9754e3cb868acf71.wav,rana,rama,ES_04,male,20-60,Poland,6,graveness,absent,accute,a,n,m,intervocalic
+rana_9d6abcc5577c4a1a9754e3cb868acf71.wav,rana,rama,ES_04,male,20-60,Venezuela,6,graveness,absent,accute,a,n,m,intervocalic
 reyes_32c615b374014a4baafc807b0d3b90c0.wav,reyes,redes,ES_02,male,20-60,Guatemala,6,compactness,present,compact,e,jj,D,intervocalic
 sino_bf2a7a34d27e4981bedbadd08e676fa1.wav,sino,chino,ES_02,male,20-60,Guatemala,6,sustention,present,continuous,i,s,tS,intervocalic
 sudo_b6e83fba2acc419cb956fe0ad24e8c7e.wav,sudo,suyo,ES_07,male,20-60,Venezuela,6,compactness,absent,diffuse,u,D,jj,intervocalic
-supe_29d5f1cb4a844afdb7c90217675433cf.wav,supe,chupe,ES_04,male,20-60,Poland,6,sustention,present,continuous,u,s,tS,intervocalic
+supe_29d5f1cb4a844afdb7c90217675433cf.wav,supe,chupe,ES_04,male,20-60,Venezuela,6,sustention,present,continuous,u,s,tS,intervocalic
 tacha_a63b3dbea75e4f5ebd9029a6704382c6.wav,tacha,tasa,ES_05,male,20-60,Venezuela,6,sustention,absent,interrupted,a,tS,s,intervocalic
-tasa_3d8902aa21f941f2920bd37b71b2a641.wav,tasa,tacha,ES_04,male,20-60,Poland,6,sustention,present,continuous,a,s,tS,intervocalic
-tenso_e190f572c12d466cb865c49acfdfb3bc.wav,tenso,denso,ES_04,male,20-60,Poland,6,voicing,absent,voiceless,e,t,d,initial
+tasa_3d8902aa21f941f2920bd37b71b2a641.wav,tasa,tacha,ES_04,male,20-60,Venezuela,6,sustention,present,continuous,a,s,tS,intervocalic
+tenso_e190f572c12d466cb865c49acfdfb3bc.wav,tenso,denso,ES_04,male,20-60,Venezuela,6,voicing,absent,voiceless,e,t,d,initial
 tomo_b717e6351948491bb21cb1d3ffce2b52.wav,tomo,tono,ES_14,male,20-60,Panama,6,graveness,present,grave,o,m,n,intervocalic
 toro_cbc75de5f2d64f8989b2d96052c84d06.wav,toro,poro,ES_05,male,20-60,Venezuela,6,graveness,absent,accute,o,t,p,initial
 traba_2deb783f95794dcead060b0eb87e35f2.wav,traba,trama,ES_03,male,20-60,Mexico,6,nasality,absent,oral,a,B,m,initial
 tuerca_daf233a8827b4da58df4d81aacc43d9c.wav,tuerca,puerca,ES_05,male,20-60,Venezuela,6,graveness,absent,accute,u,t,p,initial
-tia_70398178d18f4c18a261ef6a8ca30a7b.wav,tía,día,ES_04,male,20-60,Poland,6,voicing,absent,voiceless,i,t,d,initial
+tia_70398178d18f4c18a261ef6a8ca30a7b.wav,tía,día,ES_04,male,20-60,Venezuela,6,voicing,absent,voiceless,i,t,d,initial
 vaya_1a04da9f2bc142cda10c9bf34f2fd20f.wav,vaya,baña,ES_08,male,20-60,Colombia,6,nasality,absent,oral,a,j,J,intervocalic
 yema_556e0a985b454eff87992840b7dc2d61.wav,yema,chema,ES_14,male,20-60,Panama,6,sibilation,absent,mellow,e,jj,tS,initial
 yola_1627953031ed480d8d93af5ec201f772.wav,yola,chola,ES_02,male,20-60,Guatemala,6,sibilation,absent,mellow,o,jj,tS,initial
