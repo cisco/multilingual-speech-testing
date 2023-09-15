@@ -1,6 +1,6 @@
 # Testing Speech Intelligibility with the Multilingual Diagnostic Rhyme Test
 
-This repository contains audio recordings and information on the diagnostic rhyme test (DRT) in several languages.\
+This repository contains audio recordings and information on the diagnostic rhyme test (DRT) in several languages.
 Further details about the data, test procedure, and initial test results obtained with this data can be found in our paper [[1]](#bibliography).
 
 ## Language Versions of the Diagnostic Rhyme Test
@@ -8,46 +8,46 @@ Further details about the data, test procedure, and initial test results obtaine
 At present, speech recordings for six datasets in five languages are available here. We plan to extend this list in the future.
 
 ### Chinese (Mandarin) Consonant Contrast
-The Mandarin Chinese DRT was recorded without modification of the word list [[2]](#bibliography). Both simplified Chinese and pinyin transcriptions were used to elicit the correct pronunciation in\
-the recording sessions. We recommend to also present both to participants at test time. The test list contains 96 word pairs (192 unique words).\
-The six distinctive features for Chinese are _airflow_, _nasality_, _sustention_, _sibilation_, _graveness_, and _compactness_. We obtained six recordings for each word,\
+The Mandarin Chinese DRT was recorded without modification of the word list [[2]](#bibliography). Both simplified Chinese and pinyin transcriptions were used to elicit the correct pronunciation in
+the recording sessions. We recommend to also present both to participants at test time. The test list contains 96 word pairs (192 unique words).
+The six distinctive features for Chinese are _airflow_, _nasality_, _sustention_, _sibilation_, _graveness_, and _compactness_. We obtained six recordings for each word,
 resulting in 1146 recordings (1152 test items). Only word-initial consonant contrast is tested in the Chinese DRT.
 
 ### Chinese (Mandarin) Tonal Contrast
-As tone is phonemic in Chinese, a separate word list has been published with minimal pairs testing for tonal contrasts [[2]](#bibliography). This tonal DRT replaces the typical distinctive features\
-with distinctive tonal contrast (_1&mdash;high level_, _2&mdash;rising_, _3&mdash;low falling rising_, _4&mdash;falling_). Both simplified Chinese and pinyin transcriptions were used to elicit the correct pronunciation in\
-the recording sessions. We recommend to also present both to participants at test time. The test list contains 40 word pairs (80 unique words). With six recordings per word,\
+As tone is phonemic in Chinese, a separate word list has been published with minimal pairs testing for tonal contrasts [[2]](#bibliography). This tonal DRT replaces the typical distinctive features
+with distinctive tonal contrast (_1&mdash;high level_, _2&mdash;rising_, _3&mdash;low falling rising_, _4&mdash;falling_). Both simplified Chinese and pinyin transcriptions were used to elicit the correct pronunciation in
+the recording sessions. We recommend to also present both to participants at test time. The test list contains 40 word pairs (80 unique words). With six recordings per word,
 we provide 480 recordings/test items.
 
 ### English
-We used the DRT list for English that is proposed in [ITU-T Rec. P.807](https://www.itu.int/rec/T-REC-P.807/en) [[3]](#bibliography), as half of the word pairs have phonemic contrast at the beginning of the words (rhyme),\
-and the other half has phonemic contrast at the end of the words (diagnostic alliteration test). Other word lists exist (e.g., [[4,5]]), but focus exclusively on word-initial contrast.\
-This test was designed for phonology of North-American varieties of English. Differences in the vowel systems of North-American and other varieties of English lead to a lack of\
-rhyming contrast in the word pairs _clash_&ndash;_class_, _Slav_&ndash;_slob_, and _flog_&ndash;_flawed_. Care was taken to ensure that these words were pronounced in a North American accent of English.\
-The word list contains 96 word pairs (190 unique words; _calf_ and _knock_ appear in two word pairs) across the six distinctive feature categories for English\
+We used the DRT list for English that is proposed in [ITU-T Rec. P.807](https://www.itu.int/rec/T-REC-P.807/en) [[3]](#bibliography), as half of the word pairs have phonemic contrast at the beginning of the words (rhyme),
+and the other half has phonemic contrast at the end of the words (diagnostic alliteration test). Other word lists exist (e.g., [[4,5]]), but focus exclusively on word-initial contrast.
+This test was designed for phonology of North-American varieties of English. Differences in the vowel systems of North-American and other varieties of English lead to a lack of
+rhyming contrast in the word pairs _clash_&ndash;_class_, _Slav_&ndash;_slob_, and _flog_&ndash;_flawed_. Care was taken to ensure that these words were pronounced in a North American accent of English.
+The word list contains 96 word pairs (190 unique words; _calf_ and _knock_ appear in two word pairs) across the six distinctive feature categories for English
 (_voicing_, _nasality_, _sustention_, _sibilation_, _graveness_, _compactness_). Six recordings of each unique word were obtained, leading to a total of 1140 recordings and 1152 test items.
 
 ### French
-The French DRT materials were recorded without any modification of the word list [[6]](#bibliography). The word list contains 108 word pairs (190 unique words; 23 words occurred in multiple word pairs),\
-covering the distinctive features relevant to the French phonology (_voicing_, _nasality_, _sustention_, _vowel-likeness_, _graveness_, _compactness_).\
+The French DRT materials were recorded without any modification of the word list [[6]](#bibliography). The word list contains 108 word pairs (190 unique words; 23 words occurred in multiple word pairs),
+covering the distinctive features relevant to the French phonology (_voicing_, _nasality_, _sustention_, _vowel-likeness_, _graveness_, _compactness_).
 With six recordings of each unique word, the dataset contains 1140 recordings to be tested in 1296 test items. Only word-initial consonant contrast is tested in the French DRT.
 
 ### German
-The German DRT materials were devised for this project in analogy to the English DRT [[7]](#bibliography). Across 96 word pairs devised of 170 unique words,\
-the distinctive features _voicing_, _nasality_, _sustention_, _sibilation_, _graveness_, and _compactness_ are covered.\
-One half of the word pairs has phonemic contrast in the word-initial position. Due to the specific phonological constraints of the German language, the other half of the list\
+The German DRT materials were devised for this project in analogy to the English DRT [[7]](#bibliography). Across 96 word pairs devised of 170 unique words,
+the distinctive features _voicing_, _nasality_, _sustention_, _sibilation_, _graveness_, and _compactness_ are covered.
+One half of the word pairs has phonemic contrast in the word-initial position. Due to the specific phonological constraints of the German language, the other half of the list
 has the contrast in either word-final or intervocalic position. Six recordings were obtained for each unique word. A total of 1026 recordings (1152 test items) is provided in this test set.
 
 ### Spanish
-The Spanish DRT was originally designed for the phonology of European Castillian Spanish [[8]](#bibliography). In order to open the test to a global Spanish-speaking audience,\
-we omitted the word pairs in the first set of the sibilation category, as they contain the /s/ vs. /&theta;/ contrast, which only exists in European Spanish.\
-The word list contains word pairs testing word-initial and intervocal consonantal contrast. The files cover the distinctive feature categories\
-_voicing_, _nasality_, _sustention_, _sibilation_, _graveness_, and _compactness_. A total of 53 word pairs (106 unique words) was recorded six times,\
+The Spanish DRT was originally designed for the phonology of European Castillian Spanish [[8]](#bibliography). In order to open the test to a global Spanish-speaking audience,
+we omitted the word pairs in the first set of the sibilation category, as they contain the /s/ vs. /&theta;/ contrast, which only exists in European Spanish.
+The word list contains word pairs testing word-initial and intervocal consonantal contrast. The files cover the distinctive feature categories
+_voicing_, _nasality_, _sustention_, _sibilation_, _graveness_, and _compactness_. A total of 53 word pairs (106 unique words) was recorded six times,
 producing a test corpus of 636 recordings/test items.
 
 ### DRT Word Lists in Other Languages
 
-Additionally, we have encountered the following DRT versions of further languages in the literature.\
+Additionally, we have encountered the following DRT versions of further languages in the literature.
 
 - Arabic [[9,10]](#bibliography)
 - Dutch [[11]](#bibliography)
@@ -61,17 +61,17 @@ Additionally, we have encountered the following DRT versions of further language
 - Thai [[20]](#bibliography)
 - Turkish [[21]](#bibliography)
 
-No recordings are provided at this point for these languages. We plan to extend our dataset in the future and are currently preparing Arabic and Japanese for the next release.\
-If you are aware of materials (word lists and/or recordings) in other languages, please contact us to extend this list. Note that the materials have not been\
+No recordings are provided at this point for these languages. We plan to extend our dataset in the future and are currently preparing Arabic and Japanese for the next release.
+If you are aware of materials (word lists and/or recordings) in other languages, please contact us to extend this list. Note that the materials have not been
 reviewed and are solely referenced here to provide an easy overview of existing previous work to the research community.
 
 ## Data Collection Information
 
-The speech recordings were collected from native speakers of the respective language on the crowdsourcing platforms [Upwork](https://www.upwork.com/) and [Amazon Mechanical Turk](https://www.mturk.com/) as well as internally.\
-Speakers were asked to use their best available microphone. All words from the word list were presented to the speakers one by one on their screen.\
-If noise was detected in the speech sample, the word was presented a second time. The files were post-validated by native speaker annotators:\
-Mispronounced, unintelligible, noisy, and low-quality recordings were excluded from further consideration.\
-The final gender-balanced test set for each language included six instances of each target word (three female, three male),\
+The speech recordings were collected from native speakers of the respective language on the crowdsourcing platforms [Upwork](https://www.upwork.com/) and [Amazon Mechanical Turk](https://www.mturk.com/) as well as internally.
+Speakers were asked to use their best available microphone. All words from the word list were presented to the speakers one by one on their screen.
+If noise was detected in the speech sample, the word was presented a second time. The files were post-validated by native speaker annotators:
+Mispronounced, unintelligible, noisy, and low-quality recordings were excluded from further consideration.
+The final gender-balanced test set for each language included six instances of each target word (three female, three male),
 with different sets of talkers across words.
 
 ## Dataset Contents
@@ -143,7 +143,7 @@ p. 1186678, 2022, Publisher: Hindawi.
 
 [11] H. J. M. Steeneken, Ontwikkeling en toetsing van een
 Nederlandstalige diagnostische rijmtest voor het testen van
-spraakkommunikatiekanalen, Instituut voor Zintuigfysiologie\
+spraakkommunikatiekanalen, Instituut voor Zintuigfysiologie
 RVO-TNO, 1982.
 
 [12] D. Tsoukalas, J. Mourjopoulos, and G. Kokkinakis, “Speech
@@ -151,7 +151,7 @@ enhancement based on audible noise suppression,” IEEE
 Transactions on Speech and Audio Processing, vol. 5, no. 6,
 pp. 497–514, 1997.
 
-[13] P. Bonaventura, A. Paoloni, F. Canavesio, and P. Usai, “Realizzazione di un test diagnostico di intelligibilit`a per la lingua
+[13] P. Bonaventura, A. Paoloni, F. Canavesio, and P. Usai, “Realizzazione di un test diagnostico di intelligibilità per la lingua
 italiana,” Tech. Rep., Fondazione Ugo Bordoni, Rome, 1986.
 
 [14] M. Fujimori, K. Kondo, K. Takano, and K. Nakagawa, “On
