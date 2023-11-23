@@ -78,7 +78,7 @@ with different sets of talkers across words.
 
 Each language folder consists of the following: 
 - __audio test files__ with the following technical specifications:
-    - 16 kHz sample rate
+    - 16/48 kHz sample rate
     - 16 bit precision
     - cropped to include 500 ms leading and trailing silence
     - faded in and out over 100 ms, respectively
