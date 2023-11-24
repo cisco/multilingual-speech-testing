@@ -99,9 +99,9 @@ gite_15a534e98efc423099d3c0b2e89faa81.wav,gîte,rite,FR_12,female,20-60,France,1
 iambe_09129934256641209a41fd04b170f82e.wav,iambe,jambe,FR_14,female,20-60,France,1,vowel-likeness,present,vocalic,a~,j,Z,initial
 jambe_8a37ebb50c134708950f84f086369ac4.wav,jambe,iambe,FR_11,female,20-60,France,1,vowel-likeness,absent,non-vocalic,a~,Z,j,initial
 jars_fe871417a5374d588aa9f2a5f7b3142e.wav,jars,yard,FR_11,female,20-60,France,1,vowel-likeness,absent,non-vocalic,a,Z,j,initial
-juche_d5da39cb239d4ad195893a7950a12d20.wav,juche,ruche,FR_12,female,20-60,France,1,vowel-likeness,absent,non-vocalic,y,j,R,initial
+juche_d5da39cb239d4ad195893a7950a12d20.wav,juche,ruche,FR_12,female,20-60,France,1,vowel-likeness,absent,non-vocalic,y,Z,R,initial
 jute_03962dcb3b4049c9b2aebbb5b14c9793.wav,jute,gutte,FR_12,female,20-60,France,1,sustention,absent,interrupted,y,Z,g,initial
-laine_30acd694478f46a3968f9695b2189780.wav,laine,naine,FR_10,female,20-60,France,1,nasality,absent,oral,e,l,b,initial
+laine_30acd694478f46a3968f9695b2189780.wav,laine,naine,FR_10,female,20-60,France,1,nasality,absent,oral,e,l,n,initial
 lape_b4bdc65d340a45fb98ae90cd26559dbf.wav,lape,nappe,FR_15,female,20-60,France,1,nasality,absent,oral,a,l,n,initial
 lente_eded331e5cf44e5c8a24b0b56172751d.wav,lente,nantes,FR_14,female,20-60,France,1,nasality,absent,oral,a~,l,n,initial
 limbes_13bf5ca4d282499f91eaa769f9a4db77.wav,limbes,nimbe,FR_12,female,20-60,France,1,nasality,absent,oral,e~,l,n,initial
@@ -114,7 +114,7 @@ mante_57899b945910498aaff25af3a4b55662.wav,mante,nantes,FR_14,female,20-60,Franc
 miche_539591c287314a309654e45404d3bfaf.wav,miche,biche,FR_12,female,20-60,France,2,nasality,present,nasal,i,m,b,initial
 moule_f1100f3bfd77487a82bc5b4ede86a8bc.wav,moule,boule,FR_15,female,20-60,France,2,nasality,present,nasal,u,m,b,initial
 mule_c362cb27bc954bc69c7e0ac3daee6e1b.wav,mule,nulle,FR_13,female,20-60,France,2,graveness,present,grave,y,m,n,initial
-naine_a8a66148abbd4db2bd26bbb1a4861d58.wav,naine,laine,FR_15,female,20-60,France,2,nasality,present,nasal,e,b,l,initial
+naine_a8a66148abbd4db2bd26bbb1a4861d58.wav,naine,laine,FR_15,female,20-60,France,2,nasality,present,nasal,e,n,l,initial
 Nantes_653d3431f5db48dc89593b360b64720d.wav,nantes,lente,FR_19,female,13-19,France,2,nasality,present,nasal,a~,n,l,initial
 nappe_35835fab01b9408dbff19fb4c7fddf45.wav,nappe,lape,FR_17,female,20-60,France,2,nasality,present,nasal,a,n,l,initial
 natte_07683c820cc64820b9685e2961ec080b.wav,natte,mate,FR_10,female,20-60,France,2,graveness,absent,accute,a,n,m,initial
@@ -188,7 +188,7 @@ quille_81758b3e9bc84a3690ac58cded6d7bf8.wav,quille,tille,FR_05,male,20-60,Tunisi
 ratte_a3ad56b61f4e4352b595313f1272d41a.wav,ratte,latte,FR_04,male,20-60,Canada,2,compactness,present,compact,a,R,l,initial
 rente_d20e5b520e6249da8d7af888fe376e10.wav,rente,lente,FR_01,male,20-60,France,2,compactness,present,compact,a~,R,l,initial
 ronfle_0dcafc33811f440d97712b9d16d6cb78.wav,ronfle,gonfle,FR_05,male,20-60,Tunisia,2,sustention,absent,interrupted,o~,R,g,initial
-ruche_cd2bcadfadfc404a9f462026b93cc1ae.wav,ruche,juche,FR_01,male,20-60,France,2,vowel-likeness,present,vocalic,y,R,j,initial
+ruche_cd2bcadfadfc404a9f462026b93cc1ae.wav,ruche,juche,FR_01,male,20-60,France,2,vowel-likeness,present,vocalic,y,R,Z,initial
 rut_0a98c80433b44263a038395712471484.wav,rut,luth,FR_01,male,20-60,France,2,compactness,present,compact,y,R,l,initial
 sache_bf27f330484b4f618bfcf5f88d448605.wav,sache,tache,FR_05,male,20-60,Tunisia,2,sustention,absent,interrupted,a,s,t,initial
 sape_491184ec1a854a8785223fa580640c0c.wav,sape,chape,FR_04,male,20-60,Canada,2,compactness,absent,diffuse,a,s,S,initial
@@ -315,9 +315,9 @@ gite_bd99d0ae500c429eac15ba90a7b2a45d.wav,gîte,rite,FR_04,male,20-60,Canada,3,v
 iambe_3dcef1d2fe3444b2bb418118d5aceb04.wav,iambe,jambe,FR_02,male,20-60,France,3,vowel-likeness,present,vocalic,a~,j,Z,initial
 jambe_c0518e9e3c224b709fba203986ebcf47.wav,jambe,iambe,FR_05,male,20-60,Tunisia,3,vowel-likeness,absent,non-vocalic,a~,Z,j,initial
 jars_394c450df70d439a8d23dc5717f33223.wav,jars,yard,FR_04,male,20-60,Canada,3,vowel-likeness,absent,non-vocalic,a,Z,j,initial
-juche_c5132879a705499bb297fdae32a1466e.wav,juche,ruche,FR_09,male,20-60,France,3,vowel-likeness,absent,non-vocalic,y,j,R,initial
+juche_c5132879a705499bb297fdae32a1466e.wav,juche,ruche,FR_09,male,20-60,France,3,vowel-likeness,absent,non-vocalic,y,Z,R,initial
 jute_9373ff45842b48dc90defb3d51ad9239.wav,jute,gutte,FR_07,male,20-60,France,3,sustention,absent,interrupted,y,Z,g,initial
-laine_b45ba4fd0ad54debb9456aa18c92d09f.wav,laine,naine,FR_04,male,20-60,Canada,3,nasality,absent,oral,e,l,b,initial
+laine_b45ba4fd0ad54debb9456aa18c92d09f.wav,laine,naine,FR_04,male,20-60,Canada,3,nasality,absent,oral,e,l,n,initial
 lape_61e37bd94f8d444ca022bccf17f36cbb.wav,lape,nappe,FR_03,male,20-60,Mayotte,3,nasality,absent,oral,a,l,n,initial
 lente_2bc15552b12c4a359fedf46b4574d9e3.wav,lente,nantes,FR_07,male,20-60,France,3,nasality,absent,oral,a~,l,n,initial
 limbes_d485e8e2ffcc436797631d088b8c8871.wav,limbes,nimbe,FR_04,male,20-60,Canada,3,nasality,absent,oral,e~,l,n,initial
@@ -330,7 +330,7 @@ mante_64b3a1515a444af98afc11bc73eb4a07.wav,mante,nantes,FR_01,male,20-60,France,
 miche_236b6035904f4c0089313113a349a336.wav,miche,biche,FR_04,male,20-60,Canada,4,nasality,present,nasal,i,m,b,initial
 moule_523929987894435aa99dced151d253f9.wav,moule,boule,FR_04,male,20-60,Canada,4,nasality,present,nasal,u,m,b,initial
 mule_265c89ddd5254705a080c62ffdbe2916.wav,mule,nulle,FR_05,male,20-60,Tunisia,4,graveness,present,grave,y,m,n,initial
-naine_4f83ac88e61b4ab49b4a7baa8b49398d.wav,naine,laine,FR_07,male,20-60,France,4,nasality,present,nasal,e,b,l,initial
+naine_4f83ac88e61b4ab49b4a7baa8b49398d.wav,naine,laine,FR_07,male,20-60,France,4,nasality,present,nasal,e,n,l,initial
 Nantes_62428387ce3a46d9b1074cf5c5073b0c.wav,nantes,lente,FR_01,male,20-60,France,4,nasality,present,nasal,a~,n,l,initial
 nappe_a4830aec20884bf3969d80b6c220649d.wav,nappe,lape,FR_01,male,20-60,France,4,nasality,present,nasal,a,n,l,initial
 natte_8a66f308a93649ba9615745ad4650474.wav,natte,mate,FR_05,male,20-60,Tunisia,4,graveness,absent,accute,a,n,m,initial
@@ -404,7 +404,7 @@ quille_b6865f286fe348cea71166a33c12d55c.wav,quille,tille,FR_10,female,20-60,Fran
 ratte_ea661c32ea294acaa57bf9d3143ec893.wav,ratte,latte,FR_17,female,20-60,France,4,compactness,present,compact,a,R,l,initial
 rente_fd14463adedd40eeb445a011f1607b90.wav,rente,lente,FR_23,female,20-60,France,4,compactness,present,compact,a~,R,l,initial
 ronfle_37310599dfa04d6d9400d4e8a463daf2.wav,ronfle,gonfle,FR_21,female,13-19,Algeria,4,sustention,absent,interrupted,o~,R,g,initial
-ruche_229b58e964d846b69af148b62bcedc5f.wav,ruche,juche,FR_24,female,20-60,Canada,4,vowel-likeness,present,vocalic,y,R,j,initial
+ruche_229b58e964d846b69af148b62bcedc5f.wav,ruche,juche,FR_24,female,20-60,Canada,4,vowel-likeness,present,vocalic,y,R,Z,initial
 rut_dc58953d2e42467b85b72195b8566101.wav,rut,luth,FR_19,female,13-19,France,4,compactness,present,compact,y,R,l,initial
 sache_e9d88637461c4a9f8f41f58bdc8b6795.wav,sache,tache,FR_21,female,13-19,Algeria,4,sustention,absent,interrupted,a,s,t,initial
 sape_4ab99029702c41bbba68ded3018f9c50.wav,sape,chape,FR_21,female,13-19,Algeria,4,compactness,absent,diffuse,a,s,S,initial
@@ -531,9 +531,9 @@ gite_12daeabb74c343c78f88c34cbc05f57d.wav,gîte,rite,FR_10,female,20-60,France,5
 iambe_5777f18c85824f2dbdb2497f61e28027.wav,iambe,jambe,FR_10,female,20-60,France,5,vowel-likeness,present,vocalic,a~,j,Z,initial
 jambe_7fa47d14103744859251ccc0e6cd01da.wav,jambe,iambe,FR_12,female,20-60,France,5,vowel-likeness,absent,non-vocalic,a~,Z,j,initial
 jars_e1fc185b3d494130b191f844493cb87e.wav,jars,yard,FR_22,female,20-60,France,5,vowel-likeness,absent,non-vocalic,a,Z,j,initial
-juche_211ba2337892423a9248ccbb2220cd02.wav,juche,ruche,FR_23,female,20-60,France,5,vowel-likeness,absent,non-vocalic,y,j,R,initial
+juche_211ba2337892423a9248ccbb2220cd02.wav,juche,ruche,FR_23,female,20-60,France,5,vowel-likeness,absent,non-vocalic,y,Z,R,initial
 jute_b6fc22fdace44997877dd4fc514782e3.wav,jute,gutte,FR_23,female,20-60,France,5,sustention,absent,interrupted,y,Z,g,initial
-laine_05dc3caa99494dd697a7b4b9bf09ffa2.wav,laine,naine,FR_20,female,20-60,Belgium,5,nasality,absent,oral,e,l,b,initial
+laine_05dc3caa99494dd697a7b4b9bf09ffa2.wav,laine,naine,FR_20,female,20-60,Belgium,5,nasality,absent,oral,e,l,n,initial
 lape_ad3a27a2baab41c2a1b015c76032b6d5.wav,lape,nappe,FR_20,female,20-60,Belgium,5,nasality,absent,oral,a,l,n,initial
 lente_d906f478a55142238afcac8cddfad5c2.wav,lente,nantes,FR_21,female,13-19,Algeria,5,nasality,absent,oral,a~,l,n,initial
 limbes_610fbbc4289c4ee4a0332e0c00c1ebcc.wav,limbes,nimbe,FR_14,female,20-60,France,5,nasality,absent,oral,e~,l,n,initial
@@ -546,7 +546,7 @@ mante_d86e601416c44f1a9a25a95d1040e273.wav,mante,nantes,FR_19,female,13-19,Franc
 miche_373a86dd081a4d3a9998f199f25bdee8.wav,miche,biche,FR_17,female,20-60,France,6,nasality,present,nasal,i,m,b,initial
 moule_eebaf43f4cf54fd1815baaf13681d2ff.wav,moule,boule,FR_28,female,20-60,France,6,nasality,present,nasal,u,m,b,initial
 mule_d6c73b47e48d4f21ba307cf0e73eb142.wav,mule,nulle,FR_19,female,13-19,France,6,graveness,present,grave,y,m,n,initial
-naine_19577d5c9cb44ea3a90218478aa8b876.wav,naine,laine,FR_23,female,20-60,France,6,nasality,present,nasal,e,b,l,initial
+naine_19577d5c9cb44ea3a90218478aa8b876.wav,naine,laine,FR_23,female,20-60,France,6,nasality,present,nasal,e,n,l,initial
 Nantes_653d3431f5db48dc89593b360b64720d.wav,nantes,lente,FR_19,female,13-19,France,6,nasality,present,nasal,a~,n,l,initial
 nappe_0379d50c517d4112900569aa0a3a9772.wav,nappe,lape,FR_22,female,20-60,France,6,nasality,present,nasal,a,n,l,initial
 natte_c3121d0a465a48209fad55c3eedce257.wav,natte,mate,FR_19,female,13-19,France,6,graveness,absent,accute,a,n,m,initial
@@ -620,7 +620,7 @@ quille_75f0e7d2b42348148b6b35a1e201116b.wav,quille,tille,FR_04,male,20-60,Canada
 ratte_8a4f737cff3c455f9739a014e23d1046.wav,ratte,latte,FR_03,male,20-60,Mayotte,6,compactness,present,compact,a,R,l,initial
 rente_3da54221186b4003bb521b32c17d495d.wav,rente,lente,FR_03,male,20-60,Mayotte,6,compactness,present,compact,a~,R,l,initial
 ronfle_ab7a4745e5bc47e0bf9394eddbb0cccf.wav,ronfle,gonfle,FR_06,male,20-60,France,6,sustention,absent,interrupted,o~,R,g,initial
-ruche_32106a9be18d4031b977a21ccab8a11f.wav,ruche,juche,FR_09,male,20-60,France,6,vowel-likeness,present,vocalic,y,R,j,initial
+ruche_32106a9be18d4031b977a21ccab8a11f.wav,ruche,juche,FR_09,male,20-60,France,6,vowel-likeness,present,vocalic,y,R,Z,initial
 rut_61fbc1c4f9a144f6b2c60e5236b7076e.wav,rut,luth,FR_04,male,20-60,Canada,6,compactness,present,compact,y,R,l,initial
 sache_c0ccb93849f94f4696c22a280e474af5.wav,sache,tache,FR_04,male,20-60,Canada,6,sustention,absent,interrupted,a,s,t,initial
 sape_45470eb844a642d5b7de7e1ff3dd0e6b.wav,sape,chape,FR_07,male,20-60,France,6,compactness,absent,diffuse,a,s,S,initial
@@ -747,9 +747,9 @@ gite_19f84117674d40e78d55992a22dc8db4.wav,gîte,rite,FR_07,male,20-60,France,7,v
 iambe_935894a9a8f142c6ada709f900bd45dd.wav,iambe,jambe,FR_04,male,20-60,Canada,7,vowel-likeness,present,vocalic,a~,j,Z,initial
 jambe_e20e47d7d7954dd1a5d44a376c69a790.wav,jambe,iambe,FR_04,male,20-60,Canada,7,vowel-likeness,absent,non-vocalic,a~,Z,j,initial
 jars_295e31b17c654e5ebfc10869e222fb32.wav,jars,yard,FR_07,male,20-60,France,7,vowel-likeness,absent,non-vocalic,a,Z,j,initial
-juche_198d1846b87d4a24bd23a9d8c5eda545.wav,juche,ruche,FR_05,male,20-60,Tunisia,7,vowel-likeness,absent,non-vocalic,y,j,R,initial
+juche_198d1846b87d4a24bd23a9d8c5eda545.wav,juche,ruche,FR_05,male,20-60,Tunisia,7,vowel-likeness,absent,non-vocalic,y,Z,R,initial
 jute_f404c48430d94db2be2f1f3459b70a4d.wav,jute,gutte,FR_02,male,20-60,France,7,sustention,absent,interrupted,y,Z,g,initial
-laine_31751fd462d9411596c102db0559a7ec.wav,laine,naine,FR_04,male,20-60,Canada,7,nasality,absent,oral,e,l,b,initial
+laine_31751fd462d9411596c102db0559a7ec.wav,laine,naine,FR_04,male,20-60,Canada,7,nasality,absent,oral,e,l,n,initial
 lape_baa9242799334cc1932f664ec65efba0.wav,lape,nappe,FR_06,male,20-60,France,7,nasality,absent,oral,a,l,n,initial
 lente_bb8a689622714e97a5febc36f17a110f.wav,lente,nantes,FR_04,male,20-60,Canada,7,nasality,absent,oral,a~,l,n,initial
 limbes_2c242e17a8144a3a9a8fad15bee3c0ce.wav,limbes,nimbe,FR_07,male,20-60,France,7,nasality,absent,oral,e~,l,n,initial
@@ -762,7 +762,7 @@ mante_091b10d598d84072920b3c7f7a0ad743.wav,mante,nantes,FR_05,male,20-60,Tunisia
 miche_e9d2351cc1a44ead8196bde12c330a6c.wav,miche,biche,FR_01,male,20-60,France,8,nasality,present,nasal,i,m,b,initial
 moule_ed9db8b8b85040868f3b3c7a7dee06cc.wav,moule,boule,FR_05,male,20-60,Tunisia,8,nasality,present,nasal,u,m,b,initial
 mule_729b41900c7a45439cdfe40c216fde5a.wav,mule,nulle,FR_06,male,20-60,France,8,graveness,present,grave,y,m,n,initial
-naine_181bd1a8bd99433c86bcdded0c81daba.wav,naine,laine,FR_04,male,20-60,Canada,8,nasality,present,nasal,e,b,l,initial
+naine_181bd1a8bd99433c86bcdded0c81daba.wav,naine,laine,FR_04,male,20-60,Canada,8,nasality,present,nasal,e,n,l,initial
 Nantes_cdb19467f3324602b61743632473782d.wav,nantes,lente,FR_07,male,20-60,France,8,nasality,present,nasal,a~,n,l,initial
 nappe_96871ee8c19144909bf806a486c5b370.wav,nappe,lape,FR_04,male,20-60,Canada,8,nasality,present,nasal,a,n,l,initial
 natte_503cfe4aa43b4440b58e5cc4aa8fcb85.wav,natte,mate,FR_04,male,20-60,Canada,8,graveness,absent,accute,a,n,m,initial
@@ -836,7 +836,7 @@ quille_4871a8347c7f4d09b0de7d0a45dcb0bd.wav,quille,tille,FR_17,female,20-60,Fran
 ratte_36f645c50f9e4fb0a4230194ae4a7f8d.wav,ratte,latte,FR_12,female,20-60,France,8,compactness,present,compact,a,R,l,initial
 rente_601393ef0a4549af87ce0180d8f7399b.wav,rente,lente,FR_14,female,20-60,France,8,compactness,present,compact,a~,R,l,initial
 ronfle_d5cf096cc3054124ba408977ce93e43c.wav,ronfle,gonfle,FR_15,female,20-60,France,8,sustention,absent,interrupted,o~,R,g,initial
-ruche_9ec5f7427c90419aba6ee5b7fdb727af.wav,ruche,juche,FR_19,female,13-19,France,8,vowel-likeness,present,vocalic,y,R,j,initial
+ruche_9ec5f7427c90419aba6ee5b7fdb727af.wav,ruche,juche,FR_19,female,13-19,France,8,vowel-likeness,present,vocalic,y,R,Z,initial
 rut_a950d94df65c494fa56fe438933703f7.wav,rut,luth,FR_12,female,20-60,France,8,compactness,present,compact,y,R,l,initial
 sache_10cf90bbb88a438096975f00dd3c5712.wav,sache,tache,FR_17,female,20-60,France,8,sustention,absent,interrupted,a,s,t,initial
 sape_bd6c4e5967bc4170b6d91b9b517589ca.wav,sape,chape,FR_24,female,20-60,Canada,8,compactness,absent,diffuse,a,s,S,initial
@@ -963,9 +963,9 @@ gite_9e9aeb9c27b340fe9855c8d7988dbce2.wav,gîte,rite,FR_14,female,20-60,France,9
 iambe_b397c16f9a914b41a11a8a0d18d8def7.wav,iambe,jambe,FR_17,female,20-60,France,9,vowel-likeness,present,vocalic,a~,j,Z,initial
 jambe_59394057b8214297906c263c583acf3c.wav,jambe,iambe,FR_14,female,20-60,France,9,vowel-likeness,absent,non-vocalic,a~,Z,j,initial
 jars_0cf4992744eb4456ad7cd2e18b8b08f9.wav,jars,yard,FR_24,female,20-60,Canada,9,vowel-likeness,absent,non-vocalic,a,Z,j,initial
-juche_5725a5a14d444baca2a93ca4f2b3505f.wav,juche,ruche,FR_14,female,20-60,France,9,vowel-likeness,absent,non-vocalic,y,j,R,initial
+juche_5725a5a14d444baca2a93ca4f2b3505f.wav,juche,ruche,FR_14,female,20-60,France,9,vowel-likeness,absent,non-vocalic,y,Z,R,initial
 jute_03962dcb3b4049c9b2aebbb5b14c9793.wav,jute,gutte,FR_12,female,20-60,France,9,sustention,absent,interrupted,y,Z,g,initial
-laine_1d32123b460f4576a5eb96ef7ce66798.wav,laine,naine,FR_15,female,20-60,France,9,nasality,absent,oral,e,l,b,initial
+laine_1d32123b460f4576a5eb96ef7ce66798.wav,laine,naine,FR_15,female,20-60,France,9,nasality,absent,oral,e,l,n,initial
 lape_106f497504f74a44ba9aea8965da795e.wav,lape,nappe,FR_14,female,20-60,France,9,nasality,absent,oral,a,l,n,initial
 lente_eded331e5cf44e5c8a24b0b56172751d.wav,lente,nantes,FR_14,female,20-60,France,9,nasality,absent,oral,a~,l,n,initial
 limbes_231bcd2ae77c464594cb37a7e766256b.wav,limbes,nimbe,FR_11,female,20-60,France,9,nasality,absent,oral,e~,l,n,initial
@@ -978,7 +978,7 @@ mante_de86b5a9b25b4b689d94dd1fa843e77c.wav,mante,nantes,FR_22,female,20-60,Franc
 miche_08a0dfd82e9c4881beb50d93c6707819.wav,miche,biche,FR_19,female,13-19,France,10,nasality,present,nasal,i,m,b,initial
 moule_1e8277c6d97d47389f0aca99acf77290.wav,moule,boule,FR_20,female,20-60,Belgium,10,nasality,present,nasal,u,m,b,initial
 mule_c362cb27bc954bc69c7e0ac3daee6e1b.wav,mule,nulle,FR_13,female,20-60,France,10,graveness,present,grave,y,m,n,initial
-naine_9a0e82b638b94ed3a968437f316fe7b1.wav,naine,laine,FR_11,female,20-60,France,10,nasality,present,nasal,e,b,l,initial
+naine_9a0e82b638b94ed3a968437f316fe7b1.wav,naine,laine,FR_11,female,20-60,France,10,nasality,present,nasal,e,n,l,initial
 Nantes_653d3431f5db48dc89593b360b64720d.wav,nantes,lente,FR_19,female,13-19,France,10,nasality,present,nasal,a~,n,l,initial
 nappe_b74d71e93fb7417b934b11b5cf05c659.wav,nappe,lape,FR_19,female,13-19,France,10,nasality,present,nasal,a,n,l,initial
 natte_769640d0c8fd4fc5b925da6381e25067.wav,natte,mate,FR_20,female,20-60,Belgium,10,graveness,absent,accute,a,n,m,initial
@@ -1052,7 +1052,7 @@ quille_a0ac10e128cf49f7bca023b633f86973.wav,quille,tille,FR_01,male,20-60,France
 ratte_13a3807d5a154042bd884acf4e838037.wav,ratte,latte,FR_01,male,20-60,France,10,compactness,present,compact,a,R,l,initial
 rente_34590161fa2a4c958314207257294530.wav,rente,lente,FR_04,male,20-60,Canada,10,compactness,present,compact,a~,R,l,initial
 ronfle_144678701eaf4179afada4df52658022.wav,ronfle,gonfle,FR_04,male,20-60,Canada,10,sustention,absent,interrupted,o~,R,g,initial
-ruche_fbcdb50c2ccc4c42b85853159b56b93a.wav,ruche,juche,FR_07,male,20-60,France,10,vowel-likeness,present,vocalic,y,R,j,initial
+ruche_fbcdb50c2ccc4c42b85853159b56b93a.wav,ruche,juche,FR_07,male,20-60,France,10,vowel-likeness,present,vocalic,y,R,Z,initial
 rut_0a98c80433b44263a038395712471484.wav,rut,luth,FR_01,male,20-60,France,10,compactness,present,compact,y,R,l,initial
 sache_243084fc309246938dad188a9705853c.wav,sache,tache,FR_07,male,20-60,France,10,sustention,absent,interrupted,a,s,t,initial
 sape_a6cd6eaddece4965b925dbb46726c770.wav,sape,chape,FR_03,male,20-60,Mayotte,10,compactness,absent,diffuse,a,s,S,initial
@@ -1179,9 +1179,9 @@ gite_95b9180383cc4e59bafba0cbb716e6f7.wav,gîte,rite,FR_04,male,20-60,Canada,11,
 iambe_cd3f16e02e8e4ee6acd4a7da7afb7561.wav,iambe,jambe,FR_01,male,20-60,France,11,vowel-likeness,present,vocalic,a~,j,Z,initial
 jambe_176f39e3cce74f50a7ede19af0b63f27.wav,jambe,iambe,FR_04,male,20-60,Canada,11,vowel-likeness,absent,non-vocalic,a~,Z,j,initial
 jars_425338d5f06e4bdc8b7d2c6ff09a0d05.wav,jars,yard,FR_05,male,20-60,Tunisia,11,vowel-likeness,absent,non-vocalic,a,Z,j,initial
-juche_ac02f8bede6940468ac2f1ed3dba18f1.wav,juche,ruche,FR_04,male,20-60,Canada,11,vowel-likeness,absent,non-vocalic,y,j,R,initial
+juche_ac02f8bede6940468ac2f1ed3dba18f1.wav,juche,ruche,FR_04,male,20-60,Canada,11,vowel-likeness,absent,non-vocalic,y,Z,R,initial
 jute_f404c48430d94db2be2f1f3459b70a4d.wav,jute,gutte,FR_02,male,20-60,France,11,sustention,absent,interrupted,y,Z,g,initial
-laine_7f9857a1b0524ac884a7d62d01529a3d.wav,laine,naine,FR_03,male,20-60,Mayotte,11,nasality,absent,oral,e,l,b,initial
+laine_7f9857a1b0524ac884a7d62d01529a3d.wav,laine,naine,FR_03,male,20-60,Mayotte,11,nasality,absent,oral,e,l,n,initial
 lape_07b06ed9cd254c07951edf32fc6c9ccb.wav,lape,nappe,FR_04,male,20-60,Canada,11,nasality,absent,oral,a,l,n,initial
 lente_bb8a689622714e97a5febc36f17a110f.wav,lente,nantes,FR_04,male,20-60,Canada,11,nasality,absent,oral,a~,l,n,initial
 limbes_e3776babdaaf4790a9e6fa0a545ffa3a.wav,limbes,nimbe,FR_06,male,20-60,France,11,nasality,absent,oral,e~,l,n,initial
@@ -1194,7 +1194,7 @@ mante_3adeaed9d8054b628d0294329574e56f.wav,mante,nantes,FR_04,male,20-60,Canada,
 miche_c2083039a8f845b69ff8c327e7180cf9.wav,miche,biche,FR_07,male,20-60,France,12,nasality,present,nasal,i,m,b,initial
 moule_b564b8d1ed6e416f8d489fd6442171fa.wav,moule,boule,FR_06,male,20-60,France,12,nasality,present,nasal,u,m,b,initial
 mule_729b41900c7a45439cdfe40c216fde5a.wav,mule,nulle,FR_06,male,20-60,France,12,graveness,present,grave,y,m,n,initial
-naine_a9b12bf308084ae9b2fa9998969cf93b.wav,naine,laine,FR_01,male,20-60,France,12,nasality,present,nasal,e,b,l,initial
+naine_a9b12bf308084ae9b2fa9998969cf93b.wav,naine,laine,FR_01,male,20-60,France,12,nasality,present,nasal,e,n,l,initial
 Nantes_cdb19467f3324602b61743632473782d.wav,nantes,lente,FR_07,male,20-60,France,12,nasality,present,nasal,a~,n,l,initial
 nappe_be80a25168854c45bbc280e5fff26f0f.wav,nappe,lape,FR_04,male,20-60,Canada,12,nasality,present,nasal,a,n,l,initial
 natte_e4a09047b74e4438b17cded1f8e545c1.wav,natte,mate,FR_04,male,20-60,Canada,12,graveness,absent,accute,a,n,m,initial
@@ -1268,7 +1268,7 @@ quille_8348a4646b6f481f8aafca827cb1812e.wav,quille,tille,FR_19,female,13-19,Fran
 ratte_050573040616429faacd58ec65c6a95c.wav,ratte,latte,FR_19,female,13-19,France,12,compactness,present,compact,a,R,l,initial
 rente_01079b1758cb4aa9a55cd16374689208.wav,rente,lente,FR_19,female,13-19,France,12,compactness,present,compact,a~,R,l,initial
 ronfle_d7b3de1f500c402c82b29f8900cfe462.wav,ronfle,gonfle,FR_14,female,20-60,France,12,sustention,absent,interrupted,o~,R,g,initial
-ruche_6272560bf620482da442d3a1be5ccd25.wav,ruche,juche,FR_12,female,20-60,France,12,vowel-likeness,present,vocalic,y,R,j,initial
+ruche_6272560bf620482da442d3a1be5ccd25.wav,ruche,juche,FR_12,female,20-60,France,12,vowel-likeness,present,vocalic,y,R,Z,initial
 rut_a950d94df65c494fa56fe438933703f7.wav,rut,luth,FR_12,female,20-60,France,12,compactness,present,compact,y,R,l,initial
 sache_fd61eda59a504c4f99331dcb6ab3e7b3.wav,sache,tache,FR_14,female,20-60,France,12,sustention,absent,interrupted,a,s,t,initial
 sape_b773e4df51ba4f85afeef7d67cdc0fee.wav,sape,chape,FR_14,female,20-60,France,12,compactness,absent,diffuse,a,s,S,initial
