@@ -1,7 +1,7 @@
 # Testing Speech Intelligibility with the Multilingual Diagnostic Rhyme Test
 
 This repository contains audio recordings and information on the diagnostic rhyme test (DRT) in several languages.
-Further details about the data, test procedure, and initial test results obtained with this data can be found in our paper [[1]](#bibliography).
+Further details about the data, test procedure, and initial test results obtained with this data can be found in our [paper](https://ieeexplore.ieee.org/document/10447869) [[1]](#bibliography)[[arXiv preprint]](http://arxiv.org/abs/2403.14817).
 
 ## Language Versions of the Diagnostic Rhyme Test
 
@@ -107,7 +107,7 @@ Each language folder consists of the following:
 ## Bibliography
 
 [1]: L. Lechler and K. Wojcicki, “Crowdsourced multilingual
-speech intelligibility testing,” forthcoming.
+speech intelligibility testing,” ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 1441-1445.
 
 [2]: I. McLoughlin, “Subjective Intelligibility Testing of Chinese
 Speech,” IEEE Trans. Audio Speech Lang. Process., vol. 16,
