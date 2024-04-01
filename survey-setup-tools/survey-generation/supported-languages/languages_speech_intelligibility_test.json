@@ -1,0 +1,12 @@
+{
+    "qualtrics_supported_languages":
+    {
+        "EN": "English",
+        "ES": "Spanish",
+        "DE": "German",
+        "AR": "Arabic",
+        "JA": "Japanese",
+        "FR": "French",
+        "ZH-S": "Chinese"
+    }
+}
