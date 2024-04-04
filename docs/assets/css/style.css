@@ -526,6 +526,15 @@ section {
   .hero {
     background-attachment: fixed;
   }
+
+  .hero .hero-img {
+    padding-right: 120px;
+  }
+
+  .hero .hero-img img {
+    height: 450px;
+  }
+  
 }
 
 @media (max-width: 991px) {
@@ -540,7 +549,7 @@ section {
   }
 
   .hero .hero-img img {
-    width: 80%;
+    width: 100%;
   }
 }
 
@@ -558,7 +567,8 @@ section {
   }
 
   .hero .hero-img img {
-    width: 80%;
+    
+    width: 100%;
   }
 }
 
