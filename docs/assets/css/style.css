@@ -535,7 +535,7 @@ section {
   }
 
   .hero .hero-img {
-    text-align: center;
+    
     margin-top: 10px;
   }
 
@@ -851,7 +851,7 @@ section {
   align-items: center;
   justify-content: center;
   font-weight: 600;
-  font-size: 25px;
+  font-size: 18px;
   padding: 8px 20px;
 }
 
