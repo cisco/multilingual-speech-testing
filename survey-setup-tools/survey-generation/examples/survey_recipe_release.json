@@ -1,0 +1,40 @@
+{
+    "survey_config": {
+        "experiment_metafile": "experiment_survey_example.csv",
+        "experiment_name": "experiment_name_1",
+        "test_language": "spanish",
+        "payment_rate": 0.0,
+        "bonus": 0.0,
+        "output_dir": "/output_folder/"
+    },
+    "survey_options": {
+        "seed": 459361667,
+
+        "hearing_test":{
+            "hearing_test_metafile": "hearing_test_english_example.csv",
+            "hearing_test_threshold": 13
+        },
+        "training": {
+            "training_metafile": "experiment_training_example.csv",
+            "clean": {
+                "number_files": 8,
+                "valid_expected": 6
+            },
+            "noisy": {
+                "number_files": 8,
+                "valid_expected": 6
+            }
+        },
+        "validation": {
+            "validation_metafile": "experiment_validation_example.csv",
+            "clean": {
+                "number_files": 0,
+                "valid_expected": 0
+            },
+            "noisy": {
+                "number_files": 20,
+                "valid_expected": 15
+            }
+        }
+    }
+}
