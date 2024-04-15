@@ -1618,6 +1618,15 @@ section {
   transition: 0.3s;
 }
 
+.recent-blog-posts .post-box .post-title-smaller {
+  font-size: 19px;
+  color: #012970;
+  font-weight: 700;
+  margin-bottom: 18px;
+  position: relative;
+  transition: 0.3s;
+}
+
 .recent-blog-posts .post-box .readmore {
   display: flex;
   align-items: center;
@@ -1633,6 +1642,10 @@ section {
 }
 
 .recent-blog-posts .post-box:hover .post-title {
+  color: #4154f1;
+}
+
+.recent-blog-posts .post-box:hover .post-title-smaller {
   color: #4154f1;
 }
 
