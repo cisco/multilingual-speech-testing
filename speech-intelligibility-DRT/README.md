@@ -103,6 +103,21 @@ Each language folder consists of the following:
     - SAMPA transcription of the alternative phoneme contrasted with the target phoneme
     - location (_initial_, _final_, or _intervocalic_)
 
+## Citation
+We kindly ask you to cite the following paper in any publications using or referring to these datasets:
+```
+@inproceedings{
+        lechler2024icassp,
+        author = {Lechler, Laura and Wojcicki, Kamil},
+        title = {Crowdsourced Multilingual Speech Intelligibility Testing},
+        booktitle = {ICASSP},
+        organization = {IEEE},
+        year = {2024},
+        address={Seoul, Korea, Republic of},
+        doi   = {10.1109/ICASSP48485.2024.10447869},
+        pages= {1441-1445}
+}
+```
 
 ## Bibliography
 
