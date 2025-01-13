@@ -2,6 +2,7 @@
 
 This repository contains audio recordings and information on the diagnostic rhyme test (DRT) in several languages.
 Further details about the data, test procedure, and initial test results obtained with this data can be found in our [paper](https://ieeexplore.ieee.org/document/10447869) [[1]](#bibliography)[[arXiv preprint]](http://arxiv.org/abs/2403.14817).
+An survey setup demonstration video and example surveys can be found on our [homepage](https://cisco.github.io/multilingual-speech-testing/index.html).
 
 ## Language Versions of the Diagnostic Rhyme Test
 
