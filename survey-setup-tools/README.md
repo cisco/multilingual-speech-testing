@@ -33,9 +33,9 @@ The `results_analysis` [directory](results_analysis) is under construction. It w
 
 ## Structure of SIT Survey
 This SIT survey is based on the DRT format and consists of the following blocks:
-![Visual representation of SIT survey blocks](https://github.com/BabbleLabs/subjective_intelligibility_test_software_release/blob/master/survey-setup-tools/wiki/survey_flowchart.png)
+![Visual representation of SIT survey blocks](wiki/survey_flowchart.png)
 
-For a more detailed outline of the survey components and specifications, please refer to the project [wiki](https://github.com/BabbleLabs/subjective_intelligibility_test_software_release/wiki/Qualtrics-SIT-Survey).
+For a more detailed outline of the survey components and specifications, please refer to the project [wiki](wiki/Qualtrics-SIT-Survey).
 
 
 ## Requirements
