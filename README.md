@@ -1,10 +1,14 @@
-# Multilingual Speech Datasets
+# Multilingual Speech Testing
 
-This repository is a collection of real-world speech recordings. The datasets are designed for speech quality and intellgibility assessment purposes, including subjective tests in laboratory or crowdsourced settings.
+This repository is a collection of real-world speech recordings and tools to facilitate subjective testing and analysis. The datasets are designed for speech quality and intellgibility assessment purposes, including subjective tests in laboratory or crowdsourced settings.
 
 ## Speech Intelligibility Assessment
 
-We provide audio files for the Diagnostic Rhyme Test (DRT) to assess speech intelligibility in several languages.
+We provide audio files and support code for the Diagnostic Rhyme Test (DRT) to assess speech intelligibility in several languages.
+
+## Crowdsourced MUSHRA Testing
+
+We share helper code to set up crowdsourced MUSHRA tests (forthcoming). The test design and participant screening follows ITU recommendations and has been adapted to the crowdsourced setting. The flexible test setup can be performed with any suitable high-quality clean speech test data. The release of this tool will be timed with our paper presentation at INTERSPEECH 2025 in Rotterdam. 
 
 ## Acknowledgements
 
