@@ -1,0 +1,71 @@
+{
+  "survey_config": {
+    "experiment_name": "MUSHRA_Example",
+    "testing_metafile": "examples/testing_metafile_example.csv",
+    "target_filename_column": "filename",
+    "output_dir": "output_dir"
+  },
+  "survey_options": {
+    "seed": 1,
+    "survey_question": "Rate the quality of each audio sample compared to the Reference. You must listen to each audio sample from start to end.<br><br>Reference:",
+    "show_reference_in_header": true,
+    "include_reference_in_rating": true,
+    "training_set": {
+      "1": {
+        "ref": "https://link-to-file.wav",
+        "poor": "https://link-to-file.wav",
+        "good": "https://link-to-file.wav",
+        "anchor": "https://link-to-file.wav"
+      }
+    },
+    "training_pass_threshold": 6,
+    "training_attempts_limit": 3,
+    "hearing_test": {
+      "easy": [
+        {
+          "resource_link": "https://link-to-file.wav",
+          "digits": "289"
+        },
+        {
+          "resource_link": "https://link-to-file.wav",
+          "digits": "591"
+        }
+      ],
+      "medium": [
+        {
+          "resource_link": "https://link-to-file.wav",
+          "digits": "401"
+        },
+        {
+          "resource_link": "https://link-to-file.wav",
+          "digits": "468"
+        }
+      ],
+      "hard": [
+        {
+          "resource_link": "https://link-to-file.wav",
+          "digits": "815"
+        },
+        {
+          "resource_link": "https://link-to-file.wav",
+          "digits": "093"
+        }
+      ]
+    },
+    "hearing_test_threshold": 13,
+    "blocks": {
+      "number_of_blocks": null,
+      "number_of_questions_per_block": null,
+      "file_assignment": "random"
+    },
+    "correct_answers_threshold": {
+      "anchor_correct_answers": null,
+      "ref_correct_answers": null
+    },
+    "ref_threshold": 70,
+    "anchor_threshold": 70,
+    "anchor_min_distance_wrt_reference": null,
+    "ref_anch_fail_rate_threshold": 0,
+    "std_fail_rate_threshold": 0.2
+  }
+}

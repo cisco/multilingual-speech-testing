@@ -4,11 +4,11 @@ This repository is a collection of real-world speech recordings and tools to fac
 
 ## Speech Intelligibility Assessment
 
-We provide audio files and support code for the Diagnostic Rhyme Test (DRT) to assess speech intelligibility in several languages.
+We provide [audio files](speech-intelligibility-DRT/) and [support code](survey-setup-tools/survey-generation/DRT) for the Diagnostic Rhyme Test (DRT) to assess speech intelligibility in several languages.
 
 ## Crowdsourced MUSHRA Testing
 
-We share helper code to set up crowdsourced MUSHRA tests (forthcoming). The test design and participant screening follows ITU recommendations and has been adapted to the crowdsourced setting. The flexible test setup can be performed with any suitable high-quality clean speech test data. The release of this tool will be timed with our paper presentation at INTERSPEECH 2025 in Rotterdam. 
+We share [helper code](survey-setup-tools/survey-generation/MUSHRA/) to set up crowdsourced MUSHRA tests. The test design and participant screening follows ITU recommendations and has been adapted to the crowdsourced setting. The flexible test setup can be performed with any suitable high-quality clean speech test data. The tool is an implementation of the test approach described in our paper ["Crowdsourcing MUSHRA Tests in the Age of Generative Speech Technologies: A Comparative Analysis of Subjective and Objective Testing Methods"](https://www.isca-archive.org/interspeech_2025/lechler25_interspeech.html) presented at INTERSPEECH 2025 in Rotterdam. 
 
 ## Low-Resource Audio Codec (LRAC) Challenge Test Data
 
@@ -17,7 +17,7 @@ In the final test phase, we will also release blind testing materials for human 
 
 ## Acknowledgements
 
-We are extremely greatful for the extensive support that our colleagues and collaborators have provided in the realisation of these multilingual speech testing resources. Specifically, we would like to thank Nerio Morán Páez, Miguel Plaza Rosillon, Ginette Leon Prato, Daniel Arismendi, Shirley Pestana Rodriguez, Omid Roshani, Jose Kordahi, Cyprian Wronka, Anna Bartlett, and Ana Rivera Jaramillo. We appreciate their meticulous attention to detail and relentless dedication that was essential to getting this project off the ground.
+We are extremely greatful for the extensive support that our colleagues and collaborators have provided in the realisation of these multilingual speech testing resources. Specifically, we would like to thank Nerio Morán Páez, Miguel Plaza Rosillon, Tarek Afifi, Ginette Leon Prato, Daniel Arismendi, Shirley Pestana Rodriguez, Omid Roshani, Jose Kordahi, Cyprian Wronka, Anna Bartlett, and Ana Rivera Jaramillo. We appreciate their meticulous attention to detail and relentless dedication that was essential to getting this project off the ground.
 
 # Licensing
 

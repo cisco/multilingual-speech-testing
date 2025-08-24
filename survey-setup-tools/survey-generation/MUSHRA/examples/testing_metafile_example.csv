@@ -1,0 +1,13 @@
+filename,condition,resource_link
+file1.wav,anchor,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file2.wav,anchor,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file3.wav,anchor,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file4.wav,anchor,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file1.wav,ref,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file2.wav,ref,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file3.wav,ref,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file4.wav,ref,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file1.wav,system1,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file2.wav,system1,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file3.wav,system1,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
+file4.wav,system1,https://file-examples.com/storage/fea06176ef6899fd797689d/2017/11/file_example_WAV_1MG.wav
