@@ -7,4 +7,4 @@ Test data for the [Low-Resource Audio Codec (LRAC) Challenge 2025 (LRAC 1.0)](ht
 
 Each set is split by challenge track (`track_1`, `track_2`).
 
-For source license information, see the `meta.csv` files in the subfolders containing the stimuli.
+For blind test set licensing and attribution, see [`blind-test-set/README.md`](blind-test-set/README.md); the `meta.csv` files in each subset folder provide per-file license identifiers. For open test set licensing, see the `meta.csv` files in each subset folder (`speech_src_license`, `noise_src_license`, `rir_src_license` columns).
