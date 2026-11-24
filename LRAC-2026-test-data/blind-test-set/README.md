@@ -18,4 +18,4 @@ Details of the subjective evaluation sets can be found on the [Challenge Website
 └── drt_spa
 ```
 
-In LRAC 2.0, `track_1` and `track_2` share the same blind test set, so the above folder structure applies to both tracks.
+In LRAC 2.0, `track_1` and `track_2` use the same blind test set and its folder structure outlined above.
