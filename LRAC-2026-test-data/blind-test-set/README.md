@@ -1,6 +1,6 @@
 # Blind Test Set for the LRAC Challenge 2026 (LRAC 2.0)
 
-This folder contains the blind test set for both challenge tracks of the LRAC Challenge 2026 (LRAC 2.0).
+Placeholder: This folder will contain the blind test set for both challenge tracks of the LRAC Challenge 2026 (LRAC 2.0).
 Details of the subjective evaluation sets can be found on the [Challenge Website](https://crowdsourcing.cisco.com/lrac-challenge/2026/evaluation).
 
 ## Folder structure
